@@ -21,7 +21,7 @@
 </head>
 
 <body>
-<?php  	include "pasteis.php"; ?>
+<?php   include "pasteis.php"; ?>
 <?php include "sanduwiche.php" ; ?>
 <?php include "menu.php "; ?>
 <?php include "façaseupedido.php" ; ?>
@@ -34,9 +34,11 @@
         <div class="container">
           <div id="mySidenav" class="sidenav">
             <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-            <a href="#about">pasteis</a>
-            <a href="#event">sanduiche</a>
-            <a href="#menu-list">Menu</a>
+            <a href="#about">pasteis <span style='font-size:25px;'>&#127790;</span>
+</a>
+            <a href="#event">sanduiche <span style='font-size:25px;'>&#127828;</span> </a>
+            <a href="#menu-list">bebidas <span style='font-size:25px;'>&#127867;</span>
+</a>
             <a href="#contact">teste</a>
           </div>
           <!-- Use any element to open the sidenav -->
@@ -61,15 +63,15 @@
       <div class="row">
         <div class="col-md-12 text-center marb-35">
           <h1 class="header-h">Pasteis</h1>
-          <p class="header-p">PREÇOS
-            <br>Pastel pequeno (5R$) 
-            <br>Pastel grande (10R$)  </p>
+          <p class="header-p">
+   <br><span style='font-size:50px;'>&#127790;</span>
+</p>
         </div>
         <div class="col-md-1"></div>
         <div class="col-md-10">
           <div class="col-md-6 col-sm-6">
             <div class="about-info">
-              <h2 class="heading">Sabores / Recheios</h2>
+              <h2 class="heading">Pasteis / Recheios</h2>
               <p></p>
               <div class="details-list">
                 <ul>
@@ -77,6 +79,14 @@
                   <li><i class="fa fa-check"></i>Frango</li>
                   <li><i class="fa fa-check"></i>Portuguesa</li>
                   <li><i class="fa fa-check"></i>Carne de sol</li>
+                   <li><i class="fa fa-check"></i>Carne de sol</li>
+                    <li><i class="fa fa-check"></i>Carne de sol</li>
+                     <li><i class="fa fa-check"></i>Carne de sol</li>
+                      <li><i class="fa fa-check"></i>Carne de sol</li>
+                       <li><i class="fa fa-check"></i>Carne de sol</li>
+                        <li><i class="fa fa-check"></i>Carne de sol</li>
+                         <li><i class="fa fa-check"></i>Carne de sol</li>
+                          <li><i class="fa fa-check"></i>Carne de sol</li>
                 </ul>
               </div>
             </div>
@@ -97,32 +107,42 @@
         <div class="row">
           <div class="col-xs-12 text-center" style="padding:60px;">
             <h1 class="header-h">Sanduíche</h1>
-            <p class="header-p"> <b> PREÇOS </b>
-            <br> <b> X-come (8 R$) </b>
-            <br> <b> X-ultra (12 R$) </b>
-            <br> <b> X-big (7 R$) </b>
+            <p class="header-p"> <b> <span style='font-size:50px;'>&#127828;</span>
+ </b>
+            <br> <b>   </b>
+          
             </p>
           </div>
+          <div class="row">
           <div class="col-md-12" style="padding-bottom:60px;">
             <div class="item active left">
-              <div class="col-md-6 col-sm-6 left-images">
-                <img src="img/res02.jpg" class="img-responsive">
+            </div>
+            <div class="row">
+              <div class="col-md-60 col-sm-6 left-images">
+                <img src="img/res02.jpg" class="img-responsive" >
               </div>
               <div class="col-md-6 col-sm-6 details-text">
                 <div class="content-holder">
-                  <h2>Sabores / Recheios</h2>
+                  <h2>Nomes / Recheios</h2>
                   <p> <b> X-come: </b> 2 hamburguer , queijo mussarela , limão  
                   <br> <b> X-ultra: </b> 2 hamburguer , queijo , bacon , cachaça
                   <br> <b> X-big: </b> ovo , manteiga
+                    <br> <b> X-big: </b> ovo , manteiga
+                   <br> <b> X-big: </b> ovo , manteiga
+                     <br> <b> X-big: </b> ovo , manteiga
+                      <br> <b> X-big: </b> ovo , manteiga
+                      <br> <b> X-big: </b> ovo , manteiga
+                       <br> <b> X-big: </b> ovo , manteiga
+                      <br> <b> X-big: </b> ovo , manteiga
+                       <br> <b> X-big: </b> ovo , manteiga
+                        <br> <b> X-big: </b> ovo , manteiga
+                         <br> <b> X-big: </b> ovo , manteiga
+                          <br> <b> X-big: </b> ovo , manteiga
+                           <br> <b> X-big: </b> ovo , manteiga
                   </p>
-                  <address>
-                              <strong>local: </strong>
-                              rua leopodo felix 350
-                              <br>
-                              
-                            </address>
-                  <a class="btn btn-imfo btn-read-more" href="events-details.html">instagram</a>
+                  
                 </div>
+            </div>
               </div>
             </div>
           </div>
@@ -136,17 +156,17 @@
     <div class="container">
       <div class="row">
         <div class="col-md-12 text-center marb-35">
-          <h1 class="header-h">Menu List</h1>
-          <p class="header-p">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy
-            <br>nibh euismod tincidunt ut laoreet dolore magna aliquam. </p>
+          <h1 class="header-h">Lista de bebidas</h1>
+          <p class="header-p">
+            <br> </p>
         </div>
 
         <div class="col-md-12  text-center" id="menu-flters">
           <ul>
-            <li><a class="filter active" data-filter=".menu-restaurant">Show All</a></li>
-            <li><a class="filter" data-filter=".breakfast">Breakfast</a></li>
-            <li><a class="filter" data-filter=".lunch">Lunch</a></li>
-            <li><a class="filter" data-filter=".dinner">Dinner</a></li>
+            <li><a class="filter active" data-filter=".menu-restaurant">tudo</a></li>
+            <li><a class="filter" data-filter=".breakfast">refrigerantes</a></li>
+            <li><a class="filter" data-filter=".lunch">sucos</a></li>
+            <li><a class="filter" data-filter=".dinner">cervejas</a></li>
           </ul>
         </div>
 
@@ -154,110 +174,110 @@
 
           <div class="breakfast menu-restaurant">
             <span class="clearfix">
-              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">Food Item Name</a>
+              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">Coca-cola</a>
               <span style="left: 166px; right: 44px;" class="menu-line"></span>
-              <span class="menu-price">$20.99</span>
+              <span class="menu-price">R$5,99</span>
             </span>
-            <span class="menu-subtitle">Neque porro quisquam est qui dolorem</span>
+            <span class="menu-subtitle">2 litros</span>
           </div>
 
           <div class="breakfast menu-restaurant">
             <span class="clearfix">
-              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">Food Item Name</a>
+              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">Fanta uva</a>
               <span style="left: 166px; right: 44px;" class="menu-line"></span>
               <span class="menu-price">$20.99</span>
             </span>
-            <span class="menu-subtitle">Neque porro quisquam est qui dolorem</span>
+            <span class="menu-subtitle">2 litros</span>
           </div>
 
           <div class="breakfast menu-restaurant">
             <span class="clearfix">
-              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">Food Item Name</a>
+              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">FANTA LARANJA</a>
               <span style="left: 166px; right: 44px;" class="menu-line"></span>
               <span class="menu-price">$20.99</span>
             </span>
-            <span class="menu-subtitle">Neque porro quisquam est qui dolorem</span>
+            <span class="menu-subtitle">2 litros</span>
           </div>
 
           <div class="breakfast menu-restaurant">
             <span class="clearfix">
-              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">Food Item Name</a>
+              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">guaraná</a>
               <span style="left: 166px; right: 44px;" class="menu-line"></span>
               <span class="menu-price">$20.99</span>
             </span>
-            <span class="menu-subtitle">Neque porro quisquam est qui dolorem</span>
+            <span class="menu-subtitle">2 litros</span>
           </div>
 
           <div class="lunch menu-restaurant">
             <span class="clearfix">
-              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">Food Item Name</a>
+              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">suco de laranja</a>
               <span style="left: 166px; right: 44px;" class="menu-line"></span>
               <span class="menu-price">$20.99</span>
             </span>
-            <span class="menu-subtitle">Neque porro quisquam est qui dolorem</span>
+            <span class="menu-subtitle"></span>
           </div>
 
           <div class="lunch menu-restaurant">
             <span class="clearfix">
-              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">Food Item Name</a>
+              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">suco de limão</a>
               <span style="left: 166px; right: 44px;" class="menu-line"></span>
               <span class="menu-price">$20.99</span>
             </span>
-            <span class="menu-subtitle">Neque porro quisquam est qui dolorem</span>
+            <span class="menu-subtitle"></span>
           </div>
 
           <div class="lunch menu-restaurant">
             <span class="clearfix">
-              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">Food Item Name</a>
+              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">suco de goiaba</a>
               <span style="left: 166px; right: 44px;" class="menu-line"></span>
               <span class="menu-price">$20.99</span>
             </span>
-            <span class="menu-subtitle">Neque porro quisquam est qui dolorem</span>
+            <span class="menu-subtitle"></span>
           </div>
 
           <div class="lunch menu-restaurant">
             <span class="clearfix">
-              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">Food Item Name</a>
+              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">agua de coco</a>
               <span style="left: 166px; right: 44px;" class="menu-line"></span>
               <span class="menu-price">$20.99</span>
             </span>
-            <span class="menu-subtitle">Neque porro quisquam est qui dolorem</span>
+            <span class="menu-subtitle"></span>
           </div>
 
           <div class="lunch menu-restaurant">
             <span class="clearfix">
-              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">Food Item Name</a>
+              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">suco de acerola</a>
               <span style="left: 166px; right: 44px;" class="menu-line"></span>
               <span class="menu-price">$20.99</span>
             </span>
-            <span class="menu-subtitle">Neque porro quisquam est qui dolorem</span>
+            <span class="menu-subtitle"></span>
           </div>
 
           <div class="dinner menu-restaurant">
             <span class="clearfix">
-              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">Food Item Name</a>
+              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">skol beats</a>
               <span style="left: 166px; right: 44px;" class="menu-line"></span>
               <span class="menu-price">$20.99</span>
             </span>
-            <span class="menu-subtitle">Neque porro quisquam est qui dolorem</span>
+            <span class="menu-subtitle">350ml</span>
           </div>
 
           <div class="dinner menu-restaurant">
             <span class="clearfix">
-              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">Food Item Name</a>
+              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">heineken</a>
               <span style="left: 166px; right: 44px;" class="menu-line"></span>
               <span class="menu-price">$20.99</span>
             </span>
-            <span class="menu-subtitle">Neque porro quisquam est qui dolorem</span>
+            <span class="menu-subtitle">350ml</span>
           </div>
 
           <div class="dinner menu-restaurant">
             <span class="clearfix">
-              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">Food Item Name</a>
+              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">skol</a>
               <span style="left: 166px; right: 44px;" class="menu-line"></span>
               <span class="menu-price">$20.99</span>
             </span>
-            <span class="menu-subtitle">Neque porro quisquam est qui dolorem</span>
+            <span class="menu-subtitle">350ml</span>
           </div>
         </div>
 
@@ -380,6 +400,12 @@
                   Licensing information: https://bootstrapmade.com/license/
                   Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=Delicious
                 -->
+                <address>
+                              <strong>Local: </strong>
+                               Av. Pedro Alves, 224-236 - Centro, Acopiara - CE, 63560-000
+                              <br>
+                              
+                            </address>
                 Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
               </div>
             </p>
