@@ -17,29 +17,70 @@
     Theme URL: https://bootstrapmade.com/delicious-free-restaurant-bootstrap-theme/
     Author: BootstrapMade.com
     Author URL: https://bootstrapmade.com
-  ======================================================= -->
-</head>
+    ======================================================= -->
+  </head>
 
-<section id="about" class="section-padding">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12 text-center marb-35">
-          <h1 class="header-h">Pasteis</h1>
-          <p class="header-p">PREÇOS
-            <br>Pastel pequeno (5R$) 
-            <br>Pastel grande (10R$)  </p>
+ <!--banner-->
+    <section id="banner">
+      <div class="bg-color">
+        <header id="header">
+          <div class="container">
+            <div id="mySidenav" class="sidenav">
+              <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+              <a href="#about">pasteis <!--isso aqui é emoji--><span style='font-size:25px;'>&#127790;</span>
+              </a>
+              <a href="#event">sanduiche <!--isso aqui é emoji--> <span style='font-size:25px;'>&#127828;</span> </a>
+              <a href="#Petiscos">Petiscos <!--isso aqui é emoji--> <span style='font-size:25px;'>&#127844;</span> </a>
+              <a href="#menu-list">bebidas <!--isso aqui é emoji--> <span style='font-size:25px;'>&#127867;</span>
+              </a>
+              <a href="#contact">teste</a>
+
+            </div>
+            <!-- Use any element to open the sidenav -->
+            <span onclick="openNav()" class="pull-right menu-icon">☰</span>
+          </div>
+        </header>
+        <div class="container">
+          <div class="row">
+            <div class="inner text-center">
+              <h1 class="logo-name">OBA ! LANCHES</h1>
+              <h2>Sabor e qualidade</h2>
+              <p>O melhor preço e os melhores lanches</p>
+            </div>
+          </div>
         </div>
-        <div class="col-md-1"></div>
-        <div class="col-md-10">
+      </div>
+    </section>
+    <!-- / banner -->
+    <!--about-->
+    <section id="about" class="section-padding">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 text-center marb-35">
+            <h1 class="header-h">Pasteis</h1>
+            <p class="header-p">
+             <br><span style='font-size:50px'>&#127790;</span>
+           </p>
+         </div>
+         <div class="col-md-1"></div>
+         <div class="col-md-10">
           <div class="col-md-6 col-sm-6">
             <div class="about-info">
-              <h2 class="heading">Sabores / Recheios</h2>
+              <h2 class="heading">Pasteis / Recheios</h2>
               <p></p>
               <div class="details-list">
                 <ul>
                   <li><i class="fa fa-check"></i>Misto</li>
                   <li><i class="fa fa-check"></i>Frango</li>
                   <li><i class="fa fa-check"></i>Portuguesa</li>
+                  <li><i class="fa fa-check"></i>Carne de sol</li>
+                  <li><i class="fa fa-check"></i>Carne de sol</li>
+                  <li><i class="fa fa-check"></i>Carne de sol</li>
+                  <li><i class="fa fa-check"></i>Carne de sol</li>
+                  <li><i class="fa fa-check"></i>Carne de sol</li>
+                  <li><i class="fa fa-check"></i>Carne de sol</li>
+                  <li><i class="fa fa-check"></i>Carne de sol</li>
+                  <li><i class="fa fa-check"></i>Carne de sol</li>
                   <li><i class="fa fa-check"></i>Carne de sol</li>
                 </ul>
               </div>
@@ -53,3 +94,4 @@
       </div>
     </div>
   </section>
+  <!--/about-->
