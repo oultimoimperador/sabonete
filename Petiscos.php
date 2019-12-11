@@ -18,9 +18,17 @@
     Author: BootstrapMade.com
     Author URL: https://bootstrapmade.com
     ======================================================= -->
-  </head>
- <!--/ Petiscos -->
-  <section id="Petiscos">
+</head>
+<!--/ Petiscos -->
+   <div >   <style type="text/css">
+.bgimg {
+    background-image: url(img/res04.jpg);
+}
+</style>
+
+<div class="bgimg">
+    
+       <section id="Petiscos">
     <div class="bg-color" class="section-padding">
       <div class="container">
         <div class="row">
@@ -43,9 +51,13 @@
               <div class="col-md-6 col-sm-6 details-text">
                 <div class="content-holder">
                   <h2>Petiscos</h2>
-                  <p> <b> X-come: </b> 2 hamburguer , queijo mussarela , limão  
-                    <br> <b> X-ultra: </b> 2 hamburguer , queijo , bacon , cachaça
-                    <br> <b> X-big: </b> ovo , manteiga
+                  <p> 
+                       <br>  <b> Tripa  </b>
+                       <br>  <b> Limão com toicin  </b>
+                       <br>  <b> Rã frita  </b>
+                       <br>  <b> Teste  </b>
+                       <br>  <b> Teste  </b>
+                       <br>  <b> Tiú cozido </b>
 
                   </p>
                   
@@ -57,4 +69,6 @@
       </div>
     </div>
   </div>
+                 
 </section>
+</div> 

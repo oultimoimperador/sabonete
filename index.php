@@ -29,19 +29,19 @@
 <?php include "Petiscos.php"; ?>
 
     <!--banner-->
-    <section id="banner">
+     <section id="banner">
       <div class="bg-color">
         <header id="header">
           <div class="container">
             <div id="mySidenav" class="sidenav">
               <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-              <a href="#about">pasteis <!--isso aqui é emoji--><span style='font-size:25px;'>&#127790;</span>
+              <a href="#about">Pasteis <!--isso aqui é emoji--><span style='font-size:25px;'>&#127790;</span>
               </a>
-              <a href="#event">sanduiche <!--isso aqui é emoji--> <span style='font-size:25px;'>&#127828;</span> </a>
+              <a href="#event">Sanduiche <!--isso aqui é emoji--> <span style='font-size:25px;'>&#127828;</span> </a>
               <a href="#Petiscos">Petiscos <!--isso aqui é emoji--> <span style='font-size:25px;'>&#127844;</span> </a>
-              <a href="#menu-list">bebidas <!--isso aqui é emoji--> <span style='font-size:25px;'>&#127867;</span>
+              <a href="#menu-list">Bebidas <!--isso aqui é emoji--> <span style='font-size:25px;'>&#127867;</span>
               </a>
-              <a href="#contact">teste</a>
+              <a href="#contact">Faça seu pedido</a>
 
             </div>
             <!-- Use any element to open the sidenav -->
@@ -78,13 +78,14 @@
               <p></p>
               <div class="details-list">
                 <ul>
-                  <li><i class="fa fa-check"></i>Misto</li>
-                  <li><i class="fa fa-check"></i>Frango</li>
-                  <li><i class="fa fa-check"></i>Portuguesa</li>
-                  <li><i class="fa fa-check"></i>Carne de sol</li>
-                  <li><i class="fa fa-check"></i>Carne de sol</li>
-                  <li><i class="fa fa-check"></i>Carne de sol</li>
-                  <li><i class="fa fa-check"></i>Carne de sol</li>
+                    <li><i class="fa fa-check"></i><b>Pastel Misto</b></li>
+                    <i> Frango, queijo, mussarela, presunto, ervilha, milho-verde, molho de tomate</i>
+                  <li><i class="fa fa-check"></i><b>Pastel de Frango</b></li> <i>Frango, cebola, dente de alho, tomate, cheiro-verde, milho-verde, molho de tomate, azeitonas picadas</i>
+                  <li><i class="fa fa-check"></i><b>Pastel Portuguesa</b></li><i>Frango, margarina, pimenta, leite, tomate, milho-verde</i>
+                  <li><i class="fa fa-check"></i><b>Pastel Carne de sol</b></li><i>Carde de sol, pimenta,alho, pimentão, cebola, sal, cheiro-verde </i>
+                  <li><i class="fa fa-check"></i><b>Pastel de Carne-seca</b></li><i>Carne-seca, cebola, alho, tomate, salsinha, pimenta-do-reino, sal</i>
+                  <li><i class="fa fa-check"></i><b>Pastel de queijo</b></li><i>Queijo</i>
+                  <li><i class="fa fa-check"></i><b>Pastel de Queijo e Presunto</b></li><i>Queijo e presunto</i>
                   <li><i class="fa fa-check"></i>Carne de sol</li>
                   <li><i class="fa fa-check"></i>Carne de sol</li>
                   <li><i class="fa fa-check"></i>Carne de sol</li>
@@ -103,20 +104,42 @@
     </div>
   </section>
   <!--/about-->
+  <!--/about-->
   <!-- event -->
-  <section id="event">
+  <!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>OBA ! LANCHES</title>
+  <meta name="description" content="Free Bootstrap Theme by BootstrapMade.com">
+  <meta name="keywords" content="free website templates, free bootstrap themes, free template, free bootstrap, free website template">
+
+  <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Satisfy|Bree+Serif|Candal|PT+Sans">
+  <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
+  <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+  <!-- =======================================================
+    Theme Name: Delicious
+    Theme URL: https://bootstrapmade.com/delicious-free-restaurant-bootstrap-theme/
+    Author: BootstrapMade.com
+    Author URL: https://bootstrapmade.com
+  ======================================================= -->
+</head>
+<section id="event">
     <div class="bg-color" class="section-padding">
       <div class="container">
         <div class="row">
           <div class="col-xs-12 text-center" style="padding:60px;">
             <h1 class="header-h">Sanduíche</h1>
             <p class="header-p"> <b> <span style='font-size:50px;'>&#127828;</span>
-            </b>
+ </b>
             <br> <b>   </b>
-
-          </p>
-        </div>
-        <div class="row">
+          
+            </p>
+          </div>
+          <div class="row">
           <div class="col-md-12" style="padding-bottom:60px;">
             <div class="item active left">
             </div>
@@ -128,31 +151,46 @@
                 <div class="content-holder">
                   <h2>Nomes / Recheios</h2>
                   <p> <b> X-come: </b> 2 hamburguer , queijo mussarela , limão  
-                    <br> <b> X-ultra: </b> 2 hamburguer , queijo , bacon , cachaça
-                    <br> <b> X-big: </b> ovo , manteiga
-                    <br> <b> X-big: </b> ovo , manteiga
-                    <br> <b> X-big: </b> ovo , manteiga
-                    <br> <b> X-big: </b> ovo , manteiga
-                    <br> <b> X-big: </b> ovo , manteiga
-                    <br> <b> X-big: </b> ovo , manteiga
-                    <br> <b> X-big: </b> ovo , manteiga
-                    <br> <b> X-big: </b> ovo , manteiga
-                    <br> <b> X-big: </b> ovo , manteiga
-                    <br> <b> X-big: </b> ovo , manteiga
-                    <br> <b> X-big: </b> ovo , manteiga
-                    <br> <b> X-big: </b> ovo , manteiga
-                    <br> <b> X-big: </b> ovo , manteiga
+                    <br>
+                  <br> <b> X-ultra: </b> 2 hamburguer , queijo , bacon , mussarela
+                  <br>
+                  <br> <b> X-big: </b> Frango com catupiry
+                  <br>
+                    <br> <b> X-big Burguer: </b> Pão,hamburguer e queijo
+                    <br>
+                   <br> <b> X-big: </b> ovo , manteiga
+                   <br>
+                     <br> <b> X-A moda do chefe: </b> Pão,hamburguer,queijo,presuto,champignon e maionese
+                     <br>
+                      <br> <b> X-A moda da casa: </b> pão,hamburguer,queijo qualho,tomate,alface,maionese
+                      <br>
+                      <br> <b> X-Bacon: </b> Paõ,hamburguer,queijo e bacon
+                      <br>
+                       <br> <b> X-Bacon Egg: </b> Pão,hamburguer,queijo,bacon e ovo
+                       <br>
+                      <br> <b> X-Maionese: </b> Pão,hamburguer,queijo e maionese
+                      <br>
+                       <br> <b> X-Qualho Salada: </b>Paõ,hamburguer,queijo qualho,tomate,alface,maionese e ovo
+                       <br>
+                        <br> <b> X-Salada Especial da villa: </b>Pão,hamburguer,queijo,presunto,cebola crua e maionese
+                        <br>
+                         <br> <b> X-big: </b> ovo , manteiga
+                         <br>
+                          <br> <b> X-big: </b> ovo , manteiga
+                          <br>
+                           <br> <b> X-big: </b> ovo , manteiga
+                           <br>
                   </p>
                   
                 </div>
+            </div>
               </div>
             </div>
           </div>
         </div>
       </div>
     </div>
-  </div>
-</section>
+  </section>
 <!--/ event -->
 <!-- menu -->
 <section id="menu-list" class="section-padding">
@@ -289,7 +327,15 @@
   </section>
   <!--/ menu -->
   <!--/ Petiscos -->
-  <section id="Petiscos">
+   <div >   <style type="text/css">
+.bgimg {
+    background-image: url(img/res04.jpg);
+}
+</style>
+
+<div class="bgimg">
+    
+       <section id="Petiscos">
     <div class="bg-color" class="section-padding">
       <div class="container">
         <div class="row">
@@ -326,7 +372,9 @@
       </div>
     </div>
   </div>
+                 
 </section>
+</div> 
 <!-- / Petiscos -->
 
 <!-- contact -->

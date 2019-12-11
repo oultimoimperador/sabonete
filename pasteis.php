@@ -20,38 +20,7 @@
     ======================================================= -->
   </head>
 
- <!--banner-->
-    <section id="banner">
-      <div class="bg-color">
-        <header id="header">
-          <div class="container">
-            <div id="mySidenav" class="sidenav">
-              <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-              <a href="#about">pasteis <!--isso aqui é emoji--><span style='font-size:25px;'>&#127790;</span>
-              </a>
-              <a href="#event">sanduiche <!--isso aqui é emoji--> <span style='font-size:25px;'>&#127828;</span> </a>
-              <a href="#Petiscos">Petiscos <!--isso aqui é emoji--> <span style='font-size:25px;'>&#127844;</span> </a>
-              <a href="#menu-list">bebidas <!--isso aqui é emoji--> <span style='font-size:25px;'>&#127867;</span>
-              </a>
-              <a href="#contact">teste</a>
 
-            </div>
-            <!-- Use any element to open the sidenav -->
-            <span onclick="openNav()" class="pull-right menu-icon">☰</span>
-          </div>
-        </header>
-        <div class="container">
-          <div class="row">
-            <div class="inner text-center">
-              <h1 class="logo-name">OBA ! LANCHES</h1>
-              <h2>Sabor e qualidade</h2>
-              <p>O melhor preço e os melhores lanches</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    <!-- / banner -->
     <!--about-->
     <section id="about" class="section-padding">
       <div class="container">
@@ -70,7 +39,8 @@
               <p></p>
               <div class="details-list">
                 <ul>
-                  <li><i class="fa fa-check"></i>Misto</li>
+                  <li><i class="fa fa-check"></i><b> Misto</b></li>
+                  <i>  queijo , presunto , milho , milho , milho , milho , milho , milho , milho , milho , milho, milho , milho , milho , milho</i>
                   <li><i class="fa fa-check"></i>Frango</li>
                   <li><i class="fa fa-check"></i>Portuguesa</li>
                   <li><i class="fa fa-check"></i>Carne de sol</li>
