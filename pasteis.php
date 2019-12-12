@@ -17,30 +17,37 @@
     Theme URL: https://bootstrapmade.com/delicious-free-restaurant-bootstrap-theme/
     Author: BootstrapMade.com
     Author URL: https://bootstrapmade.com
-  ======================================================= -->
-</head>
+    ======================================================= -->
+  </head>
 
-<section id="about" class="section-padding">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12 text-center marb-35">
-          <h1 class="header-h">Pasteis</h1>
-          <p class="header-p">PREÇOS
-            <br>Pastel pequeno (5R$) 
-            <br>Pastel grande (10R$)  </p>
-        </div>
-        <div class="col-md-1"></div>
-        <div class="col-md-10">
+
+    <!--about-->
+    <section id="about" class="section-padding">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 text-center marb-35">
+            <h1 class="header-h">Pasteis</h1>
+            <p class="header-p">
+             <br><span style='font-size:50px'>&#127790;</span>
+           </p>
+         </div>
+         <div class="col-md-1"></div>
+         <div class="col-md-10">
           <div class="col-md-6 col-sm-6">
             <div class="about-info">
-              <h2 class="heading">Sabores / Recheios</h2>
+              <h2 class="heading">Pasteis / Recheios</h2>
               <p></p>
               <div class="details-list">
                 <ul>
-                  <li><i class="fa fa-check"></i>Misto</li>
-                  <li><i class="fa fa-check"></i>Frango</li>
-                  <li><i class="fa fa-check"></i>Portuguesa</li>
-                  <li><i class="fa fa-check"></i>Carne de sol</li>
+                    <li><i class="fa fa-check"></i><b>Pastel Misto</b></li>
+                    <i> Frango, queijo, mussarela, presunto, ervilha, milho-verde, molho de tomate</i>
+                  <li><i class="fa fa-check"></i><b>Pastel de Frango</b></li> <i>Frango, cebola, dente de alho, tomate, cheiro-verde, milho-verde, molho de tomate, azeitonas picadas</i>
+                  <li><i class="fa fa-check"></i><b>Pastel Portuguesa</b></li><i>Frango, margarina, pimenta, leite, tomate, milho-verde</i>
+                  <li><i class="fa fa-check"></i><b>Pastel Carne de sol</b></li><i>Carde de sol, pimenta,alho, pimentão, cebola, sal, cheiro-verde </i>
+                  <li><i class="fa fa-check"></i><b>Pastel de Carne-seca</b></li><i>Carne-seca, cebola, alho, tomate, salsinha, pimenta-do-reino, sal</i>
+                  <li><i class="fa fa-check"></i><b>Pastel de queijo</b></li><i>Queijo</i>
+                  <li><i class="fa fa-check"></i><b>Pastel de Queijo e Presunto</b></li><i>Queijo e presunto</i>
+                 
                 </ul>
               </div>
             </div>
@@ -53,3 +60,4 @@
       </div>
     </div>
   </section>
+  <!--/about-->

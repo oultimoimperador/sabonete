@@ -19,40 +19,63 @@
     Author URL: https://bootstrapmade.com
   ======================================================= -->
 </head>
-<!-- event -->
-  <section id="event">
+<section id="event">
     <div class="bg-color" class="section-padding">
       <div class="container">
         <div class="row">
           <div class="col-xs-12 text-center" style="padding:60px;">
             <h1 class="header-h">Sanduíche</h1>
-            <p class="header-p"> <b> PREÇOS </b>
-            <br> <b> X-come (8 R$) </b>
-            <br> <b> X-ultra (12 R$) </b>
-            <br> <b> X-big (7 R$) </b>
+            <p class="header-p"> <b> <span style='font-size:50px;'>&#127828;</span>
+ </b>
+            <br> <b>   </b>
+          
             </p>
           </div>
+          <div class="row">
           <div class="col-md-12" style="padding-bottom:60px;">
             <div class="item active left">
-              <div class="col-md-6 col-sm-6 left-images">
-                <img src="img/res02.jpg" class="img-responsive">
+            </div>
+            <div class="row">
+              <div class="col-md-60 col-sm-6 left-images">
+                <img src="img/res02.jpg" class="img-responsive" >
               </div>
               <div class="col-md-6 col-sm-6 details-text">
                 <div class="content-holder">
-                  <h2>Sabores / Recheios</h2>
+                  <h2>Nomes / Recheios</h2>
                   <p> <b> X-come: </b> 2 hamburguer , queijo mussarela , limão  
-                  <br> <b> X-ultra: </b> 2 hamburguer , queijo , bacon , cachaça
-                  <br> <b> X-big: </b> ovo , manteiga
+                    <br>
+                  <br> <b> X-ultra: </b> 2 hamburguer , queijo , bacon , mussarela
+                  <br>
+                  <br> <b> X-big: </b> Frango com catupiry
+                  <br>
+                    <br> <b> X-big Burguer: </b> Pão,hamburguer e queijo
+                    <br>
+                   <br> <b> X-big: </b> ovo , manteiga
+                   <br>
+                     <br> <b> X-A moda do chefe: </b> Pão,hamburguer,queijo,presuto,champignon e maionese
+                     <br>
+                      <br> <b> X-A moda da casa: </b> pão,hamburguer,queijo qualho,tomate,alface,maionese
+                      <br>
+                      <br> <b> X-Bacon: </b> Paõ,hamburguer,queijo e bacon
+                      <br>
+                       <br> <b> X-Bacon Egg: </b> Pão,hamburguer,queijo,bacon e ovo
+                       <br>
+                      <br> <b> X-Maionese: </b> Pão,hamburguer,queijo e maionese
+                      <br>
+                       <br> <b> X-Qualho Salada: </b>Paõ,hamburguer,queijo qualho,tomate,alface,maionese e ovo
+                       <br>
+                        <br> <b> X-Salada Especial da villa: </b>Pão,hamburguer,queijo,presunto,cebola crua e maionese
+                        <br>
+                         <br> <b> X-big: </b> ovo , manteiga
+                         <br>
+                          <br> <b> X-big: </b> ovo , manteiga
+                          <br>
+                           <br> <b> X-big: </b> ovo , manteiga
+                           <br>
                   </p>
-                  <address>
-                              <strong>local: </strong>
-                              rua leopodo felix 350
-                              <br>
-                              <strong>horario de funcionamento: </strong>
-                              07:30pm a 00:00pm
-                            </address>
-                  <a class="btn btn-imfo btn-read-more" href="events-details.html">instagram</a>
+                  
                 </div>
+            </div>
               </div>
             </div>
           </div>
@@ -60,4 +83,3 @@
       </div>
     </div>
   </section>
-  <!--/ event -->
