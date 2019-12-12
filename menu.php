@@ -76,52 +76,6 @@
           </div>
 
 
-
-
-
-<div class="breakfast menu-restaurant">
-            <span class="clearfix">
-              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">Dolly</a>
-              <span style="left: 166px; right: 44px;" class="menu-line"></span>
-              <span class="menu-price">$4.99</span>
-            </span>
-            <span class="menu-subtitle">2 litros</span>
-          </div>
-
-
-
-<div class="breakfast menu-restaurant">
-            <span class="clearfix">
-              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">Pepsi</a>
-              <span style="left: 166px; right: 44px;" class="menu-line"></span>
-              <span class="menu-price">$8.00</span>
-            </span>
-            <span class="menu-subtitle">2 litros</span>
-          </div>
-
-
-
-<div class="breakfast menu-restaurant">
-            <span class="clearfix">
-              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">Cajuina</a>
-              <span style="left: 166px; right: 44px;" class="menu-line"></span>
-              <span class="menu-price">$6.00</span>
-            </span>
-            <span class="menu-subtitle">2 litros</span>
-          </div>
-
-
-
-<div class="breakfast menu-restaurant">
-            <span class="clearfix">
-              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">frevo-laranja</a>
-              <span style="left: 166px; right: 44px;" class="menu-line"></span>
-              <span class="menu-price">$6.00</span>
-            </span>
-            <span class="menu-subtitle">2 litros</span>
-          </div>
-
-
           <div class="lunch menu-restaurant">
             <span class="clearfix">
               <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">suco de laranja</a>
