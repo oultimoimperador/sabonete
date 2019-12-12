@@ -34,7 +34,7 @@
             <li><a class="filter active" data-filter=".menu-restaurant">tudo</a></li>
             <li><a class="filter" data-filter=".breakfast">refrigerantes</a></li>
             <li><a class="filter" data-filter=".lunch">sucos</a></li>
-            <li><a class="filter" data-filter=".dinner">cervejas</a></li>
+            <li><a class="filter" data-filter=".dinner">Bebidas</a></li>
           </ul>
         </div>
 
@@ -76,29 +76,92 @@
             <span class="menu-subtitle">2 litros</span>
           </div>
 
+
+
+
+
+<div class="breakfast menu-restaurant">
+            <span class="clearfix">
+              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">Dolly</a>
+              <span style="left: 166px; right: 44px;" class="menu-line"></span>
+              <span class="menu-price">$4.99</span>
+            </span>
+            <span class="menu-subtitle">2 litros</span>
+          </div>
+
+
+
+<div class="breakfast menu-restaurant">
+            <span class="clearfix">
+              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">Pepsi</a>
+              <span style="left: 166px; right: 44px;" class="menu-line"></span>
+              <span class="menu-price">$8.00</span>
+            </span>
+            <span class="menu-subtitle">2 litros</span>
+          </div>
+
+
+
+<div class="breakfast menu-restaurant">
+            <span class="clearfix">
+              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">Cajuina</a>
+              <span style="left: 166px; right: 44px;" class="menu-line"></span>
+              <span class="menu-price">$6.00</span>
+            </span>
+            <span class="menu-subtitle">2 litros</span>
+          </div>
+
+
+
+
           <div class="lunch menu-restaurant">
             <span class="clearfix">
               <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">suco de laranja</a>
               <span style="left: 166px; right: 44px;" class="menu-line"></span>
-              <span class="menu-price">$20.99</span>
+              <span class="menu-price">$3.00</span>
             </span>
             <span class="menu-subtitle"></span>
           </div>
+
 
           <div class="lunch menu-restaurant">
             <span class="clearfix">
               <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">suco de limão</a>
               <span style="left: 166px; right: 44px;" class="menu-line"></span>
-              <span class="menu-price">$20.99</span>
+              <span class="menu-price">$3.00</span>
             </span>
             <span class="menu-subtitle"></span>
           </div>
+
+
+
+
+<div class="lunch menu-restaurant">
+            <span class="clearfix">
+              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">Suco de Ameixa, Mamão e Laranja</a>
+              <span style="left: 166px; right: 44px;" class="menu-line"></span>
+              <span class="menu-price">$6.00</span>
+            </span>
+            <span class="menu-subtitle"></span>
+          </div>
+
+
+
+          <div class="lunch menu-restaurant">
+            <span class="clearfix">
+              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">suco de melancia com Gengibre</a>
+              <span style="left: 166px; right: 44px;" class="menu-line"></span>
+              <span class="menu-price">$5.00</span>
+            </span>
+            <span class="menu-subtitle"></span>
+          </div>
+
 
           <div class="lunch menu-restaurant">
             <span class="clearfix">
               <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">suco de goiaba</a>
               <span style="left: 166px; right: 44px;" class="menu-line"></span>
-              <span class="menu-price">$20.99</span>
+              <span class="menu-price">$3.50</span>
             </span>
             <span class="menu-subtitle"></span>
           </div>
@@ -107,7 +170,7 @@
             <span class="clearfix">
               <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">agua de coco</a>
               <span style="left: 166px; right: 44px;" class="menu-line"></span>
-              <span class="menu-price">$20.99</span>
+              <span class="menu-price">$2.50</span>
             </span>
             <span class="menu-subtitle"></span>
           </div>
@@ -116,7 +179,7 @@
             <span class="clearfix">
               <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">suco de acerola</a>
               <span style="left: 166px; right: 44px;" class="menu-line"></span>
-              <span class="menu-price">$20.99</span>
+              <span class="menu-price">$3.80</span>
             </span>
             <span class="menu-subtitle"></span>
           </div>
@@ -125,10 +188,43 @@
             <span class="clearfix">
               <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">skol beats</a>
               <span style="left: 166px; right: 44px;" class="menu-line"></span>
-              <span class="menu-price">$20.99</span>
+              <span class="menu-price">$4.00</span>
             </span>
             <span class="menu-subtitle">350ml</span>
           </div>
+
+<div class="dinner menu-restaurant">
+            <span class="clearfix">
+              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">Rum</a>
+              <span style="left: 166px; right: 44px;" class="menu-line"></span>
+              <span class="menu-price">$15.00</span>
+            </span>
+            <span class="menu-subtitle">1 litro</span>
+          </div>
+
+
+
+
+<div class="dinner menu-restaurant">
+            <span class="clearfix">
+              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">Uisque</a>
+              <span style="left: 166px; right: 44px;" class="menu-line"></span>
+              <span class="menu-price">$80.00</span>
+            </span>
+            <span class="menu-subtitle">1 litro</span>
+          </div>
+
+
+
+          <div class="dinner menu-restaurant">
+            <span class="clearfix">
+              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">Vodka</a>
+              <span style="left: 166px; right: 44px;" class="menu-line"></span>
+              <span class="menu-price">$12.00</span>
+            </span>
+            <span class="menu-subtitle">1 litro</span>
+          </div>
+
 
           <div class="dinner menu-restaurant">
             <span class="clearfix">
@@ -143,7 +239,7 @@
             <span class="clearfix">
               <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">skol</a>
               <span style="left: 166px; right: 44px;" class="menu-line"></span>
-              <span class="menu-price">$20.99</span>
+              <span class="menu-price">$2.00</span>
             </span>
             <span class="menu-subtitle">350ml</span>
           </div>
