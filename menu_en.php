@@ -41,7 +41,11 @@
 
           <div class="breakfast menu-restaurant">
             <span class="clearfix">
+<<<<<<< HEAD
+              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">coke</a>
+=======
               <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">Coca-cola</a>
+>>>>>>> primeiro
               <span style="left: 166px; right: 44px;" class="menu-line"></span>
               <span class="menu-price">R$5,99</span>
             </span>
@@ -50,7 +54,11 @@
 
           <div class="breakfast menu-restaurant">
             <span class="clearfix">
+<<<<<<< HEAD
+              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">Fanta Grape</a>
+=======
               <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">Fanta uva</a>
+>>>>>>> primeiro
               <span style="left: 166px; right: 44px;" class="menu-line"></span>
               <span class="menu-price">$20.99</span>
             </span>
@@ -59,7 +67,11 @@
 
           <div class="breakfast menu-restaurant">
             <span class="clearfix">
+<<<<<<< HEAD
+              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">ORANGE BOWL</a>
+=======
               <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">FANTA LARANJA</a>
+>>>>>>> primeiro
               <span style="left: 166px; right: 44px;" class="menu-line"></span>
               <span class="menu-price">$20.99</span>
             </span>
@@ -68,7 +80,11 @@
 
           <div class="breakfast menu-restaurant">
             <span class="clearfix">
+<<<<<<< HEAD
+              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">guarana</a>
+=======
               <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">guaraná</a>
+>>>>>>> primeiro
               <span style="left: 166px; right: 44px;" class="menu-line"></span>
               <span class="menu-price">$20.99</span>
             </span>
@@ -114,7 +130,11 @@
 
 <div class="breakfast menu-restaurant">
             <span class="clearfix">
+<<<<<<< HEAD
+              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">orange frevo</a>
+=======
               <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">frevo-laranja</a>
+>>>>>>> primeiro
               <span style="left: 166px; right: 44px;" class="menu-line"></span>
               <span class="menu-price">$6.00</span>
             </span>
