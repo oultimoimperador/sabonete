@@ -52,9 +52,18 @@
         <div class="container">
           <div class="row">
             <div class="inner text-center">
-              <h1 class="logo-name">OBA ! LANCHES</h1>
-              <h2>Sabor e qualidade</h2>
-              <p>O melhor preço e os melhores lanches</p>
+              <!--ISSO AQUI É UMA SOMBRA -->
+              <style>
+              h1 {
+                 text-shadow: 2px 3px #610B5E;
+                    }
+                                </style>
+                                    <h1></h1>
+                                     <!--ISSO AQUI É UMA SOMBRA -->
+              <h1 class="logo-name" >OBA ! LANCHES</h1>
+              }
+              <h2>Taste and quality</h2>
+              <p>The best price and the best snacks</p>
             </div>
           </div>
         </div>
