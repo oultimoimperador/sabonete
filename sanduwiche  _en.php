@@ -41,37 +41,32 @@
               </div>
               <div class="col-md-6 col-sm-6 details-text">
                 <div class="content-holder">
-                  <h2>Nomes / Recheios</h2>
-                  <p> <b> X-come: </b> 2 hamburguer , queijo mussarela , limão  
+                  <h2>Names / Fillings</h2>
+                  <p> <b> X-come: </b> 2 burger, mozzarella cheese, lemon
                     <br>
-                  <br> <b> X-ultra: </b> 2 hamburguer , queijo , bacon , mussarela
+                  <br> <b> X-ultra: </b> 2 burger, cheese, bacon, mozzarella
                   <br>
-                  <br> <b> X-big: </b> Frango com catupiry
+                  <br> <b> X-big: </b> Chicken with catupiry
                   <br>
-                    <br> <b> X-big Burguer: </b> Pão,hamburguer e queijo
+                    <br> <b> X-big Burguer: </b> Bread, Burger and Cheese
                     <br>
-                   <br> <b> X-big: </b> ovo , manteiga
+                   <br> <b> X-big: </b>egg , butter
                    <br>
-                     <br> <b> X-A moda do chefe: </b> Pão,hamburguer,queijo,presuto,champignon e maionese
+                     <br> <b> X-A moda do chefe: </b> Bread, burger, cheese, ham, champignon and mayonnaise
                      <br>
-                      <br> <b> X-A moda da casa: </b> pão,hamburguer,queijo qualho,tomate,alface,maionese
+                      <br> <b> X-A moda da casa: </b> bread, burger, cheese, tomato, lettuce, mayonnaise
                       <br>
-                      <br> <b> X-Bacon: </b> Paõ,hamburguer,queijo e bacon
+                      <br> <b> X-Bacon: </b> Bread, hamburger, cheese and bacon
                       <br>
-                       <br> <b> X-Bacon Egg: </b> Pão,hamburguer,queijo,bacon e ovo
+                       <br> <b> X-Bacon Egg: </b> Bread, Burger, Cheese, Bacon and Egg
                        <br>
-                      <br> <b> X-Maionese: </b> Pão,hamburguer,queijo e maionese
+                      <br> <b> X-Maionese: </b> Bread, Burger, Cheese and Mayonnaise
                       <br>
-                       <br> <b> X-Qualho Salada: </b>Paõ,hamburguer,queijo qualho,tomate,alface,maionese e ovo
+                       <br> <b> X-Qualho Salada: </b>Bread, burger, cheese, tomato, lettuce, mayonnaise and egg
                        <br>
-                        <br> <b> X-Salada Especial da villa: </b>Pão,hamburguer,queijo,presunto,cebola crua e maionese
+                        <br> <b> X-Salada Especial da villa: </b>Bread, Burger, Cheese, Ham, Raw Onion and Mayonnaise
                         <br>
-                         <br> <b> X-big: </b> ovo , manteiga
-                         <br>
-                          <br> <b> X-big: </b> ovo , manteiga
-                          <br>
-                           <br> <b> X-big: </b> ovo , manteiga
-                           <br>
+                        
                   </p>
                   
                 </div>

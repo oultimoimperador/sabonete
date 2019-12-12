@@ -24,8 +24,8 @@
   <div class="container">
     <div class="row">
       <div class="col-md-12 text-center">
-        <h1 class="header-h">Faça seu pedido</h1>
-        <p class="header-p">preencha o formulario pra gente preparar tudo pra vc
+        <h1 class="header-h">Make your wish</h1>
+        <p class="header-p">fill out the form for us to prepare everything for you
           <br><span style='font-size:100px;'>&#128526;</span>
         </p>
       </div>
@@ -37,8 +37,8 @@
             <div class="contact-phone bg-1 text-center"><span class="phone-in-talk fa fa-phone"></span></div>
           </div>
           <div class="media-body">
-            <h4 class="dark-blue regular">Seu Numero</h4>
-            <p class="light-blue regular alt-p">88 9988396003 <span>&#128072;&#127996;</span>  <span class="contacts-sp"> nosso numero</span></p>
+            <h4 class="dark-blue regular">Your number</h4>
+            <p class="light-blue regular alt-p">88 9988396003 <span>&#128072;&#127996;</span>  <span class="contacts-sp">our number</span></p>
           </div>
         </div>
         <div class="media-2">
@@ -46,21 +46,21 @@
             <div class="contact-email bg-14 text-center"><span class="hour-icon fa fa-clock-o"></span></div>
           </div>
           <div class="media-body">
-            <h4 class="dark-blue regular">Horario de funcionamento</h4>
-            <p class="light-blue regular alt-p"> Segunda a Sexta 09.00 - 00:00</p>
+            <h4 class="dark-blue regular">Opening hours</h4>
+            <p class="light-blue regular alt-p"> Monday to Friday 09.00 - 00:00</p>
             <p class="light-blue regular alt-p">
-              Sabado e Domingo  08:00 - 03.00
+              Saturday and Sunday 08:00 - 03.00
             </p>
           </div>
         </div>
       </div>
       <div class="col-md-8 col-sm-8">
         <form action="" method="post" role="form" class="contactForm">
-          <div id="sendmessage">o seu pedido foi enviado </div>
+          <div id="sendmessage">Your request has been sent </div>
           <div id="errormessage"></div>
           <div class="col-md-6 col-sm-6 contact-form pad-form">
             <div class="form-group label-floating is-empty">
-              <input type="text" name="name" class="form-control" id="name" placeholder="Seu nome" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+              <input type="text" name="name" class="form-control" id="name" placeholder="name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
               <div class="validation"></div>
             </div>
 
@@ -73,7 +73,7 @@
           </div>
           <div class="col-md-6 col-sm-6 contact-form pad-form">
             <div class="form-group">
-              <input type="email" class="form-control label-floating is-empty" name="email" id="email" placeholder="Digite seu e-mail" data-rule="email" data-msg="Please enter a valid email" />
+              <input type="email" class="form-control label-floating is-empty" name="email" id="email" placeholder="Type your e-mail" data-rule="email" data-msg="Please enter a valid email" />
               <div class="validation"></div>
             </div>
           </div>
@@ -85,19 +85,19 @@
           </div>
           <div class="col-md-6 col-sm-6 contact-form">
             <div class="form-group">
-              <input type="text" class="form-control label-floating is-empty" name="phone" id="phone" placeholder="Seu numero" data-rule="required" data-msg="This field is required" />
+              <input type="text" class="form-control label-floating is-empty" name="phone" id="phone" placeholder="Your number" data-rule="required" data-msg="This field is required" />
               <div class="validation"></div>
             </div>
           </div>
           <div class="col-md-6 col-sm-6 contact-form">
             <div class="form-group">
-              <input type="text" class="form-control label-floating is-empty" name="people" id="people" placeholder="Pessoa" data-rule="required" data-msg="This field is required" />
+              <input type="text" class="form-control label-floating is-empty" name="people" id="people" placeholder="people" data-rule="required" data-msg="This field is required" />
               <div class="validation"></div>
             </div>
           </div>
           <div class="col-md-12 contact-form">
             <div class="form-group label-floating is-empty">
-              <textarea class="form-control" name="message" rows="5" rows="3" data-rule="required" data-msg="Please write something for us" placeholder="qual o seu pedido ?"></textarea>
+              <textarea class="form-control" name="message" rows="5" rows="3" data-rule="required" data-msg="Please write something for us" placeholder="Please write something for us"></textarea>
               <div class="validation"></div>
             </div>
 

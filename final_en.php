@@ -41,9 +41,8 @@
                   Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=Delicious
                 -->
                 <address>
-                  <strong>Local: </strong>
-                  Av. Pedro Alves, 224-236 - Centro, Acopiara - CE, 63560-000
-                  <br>
+                  <strong>Place: </strong>
+Pedro Alves Avenue, 224-236 - Center, Acopiara - CE, 63560-000                  <br>
 
                 </address>
                 Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>

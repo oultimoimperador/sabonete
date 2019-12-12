@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt">
 
 <head>
   <meta charset="utf-8">
@@ -26,7 +26,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-12 text-center marb-35">
-            <h1 class="header-h">Pasteis</h1>
+            <h1 class="header-h">Pastries</h1>
             <p class="header-p">
              <br><span style='font-size:50px'>&#127790;</span>
            </p>
@@ -35,18 +35,18 @@
          <div class="col-md-10">
           <div class="col-md-6 col-sm-6">
             <div class="about-info">
-              <h2 class="heading">Pasteis / Recheios</h2>
+              <h2 class="heading">Pasteis / Fillings</h2>
               <p></p>
               <div class="details-list">
                 <ul>
-                    <li><i class="fa fa-check"></i><b>Pastel Misto</b></li>
-                    <i> Frango, queijo, mussarela, presunto, ervilha, milho-verde, molho de tomate</i>
-                  <li><i class="fa fa-check"></i><b>Pastel de Frango</b></li> <i>Frango, cebola, dente de alho, tomate, cheiro-verde, milho-verde, molho de tomate, azeitonas picadas</i>
-                  <li><i class="fa fa-check"></i><b>Pastel Portuguesa</b></li><i>Frango, margarina, pimenta, leite, tomate, milho-verde</i>
-                  <li><i class="fa fa-check"></i><b>Pastel Carne de sol</b></li><i>Carde de sol, pimenta,alho, pimentão, cebola, sal, cheiro-verde </i>
-                  <li><i class="fa fa-check"></i><b>Pastel de Carne-seca</b></li><i>Carne-seca, cebola, alho, tomate, salsinha, pimenta-do-reino, sal</i>
-                  <li><i class="fa fa-check"></i><b>Pastel de queijo</b></li><i>Queijo</i>
-                  <li><i class="fa fa-check"></i><b>Pastel de Queijo e Presunto</b></li><i>Queijo e presunto</i>
+                    <li><i class="fa fa-check"></i><b>Mixed Pastel</b></li>
+                    <i> Chicken, cheese, mozzarella, ham, pea, green corn, tomato sauce</i>
+                  <li><i class="fa fa-check"></i><b>Chicken pastel</b></li> <i>Chicken, Onion, Garlic Clove, Tomato, Green Smell, Green Corn, Tomato Sauce, Chopped Olives</i>
+                  <li><i class="fa fa-check"></i><b>Pastel Portuguesa</b></li><i>Chicken, margarine, pepper, milk, tomato, green corn</i>
+                  <li><i class="fa fa-check"></i><b>Pastel Carne de Sol</b></li><i>Sunlight, pepper, garlic, chili, onion, salt, green-smell</i>
+                  <li><i class="fa fa-check"></i><b>Beef patty</b></li><i>Beef jerky, onion, garlic, tomato, parsley, black pepper, salt</i>
+                  <li><i class="fa fa-check"></i><b>Cheese Pastry</b></li><i>Cheese</i>
+                  <li><i class="fa fa-check"></i><b>Cheese and Ham Pastry</b></li><i>Cheese and ham</i>
                  
                 </ul>
               </div>

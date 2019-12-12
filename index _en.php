@@ -62,11 +62,35 @@
     </section>
     <!-- / banner -->
     <!--about-->
+    <!DOCTYPE html>
+<html lang="pt">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>OBA ! LANCHES</title>
+  <meta name="description" content="Free Bootstrap Theme by BootstrapMade.com">
+  <meta name="keywords" content="free website templates, free bootstrap themes, free template, free bootstrap, free website template">
+
+  <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Satisfy|Bree+Serif|Candal|PT+Sans">
+  <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
+  <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+  <!-- =======================================================
+    Theme Name: Delicious
+    Theme URL: https://bootstrapmade.com/delicious-free-restaurant-bootstrap-theme/
+    Author: BootstrapMade.com
+    Author URL: https://bootstrapmade.com
+    ======================================================= -->
+  </head>
+
+
+    <!--about-->
     <section id="about" class="section-padding">
       <div class="container">
         <div class="row">
           <div class="col-md-12 text-center marb-35">
-            <h1 class="header-h">Pasteis</h1>
+            <h1 class="header-h">Pastries</h1>
             <p class="header-p">
              <br><span style='font-size:50px'>&#127790;</span>
            </p>
@@ -75,18 +99,18 @@
          <div class="col-md-10">
           <div class="col-md-6 col-sm-6">
             <div class="about-info">
-              <h2 class="heading">Pasteis / Recheios</h2>
+              <h2 class="heading">Pasteis / Fillings</h2>
               <p></p>
               <div class="details-list">
                 <ul>
-                    <li><i class="fa fa-check"></i><b>Pastel Misto</b></li>
-                    <i> Frango, queijo, mussarela, presunto, ervilha, milho-verde, molho de tomate</i>
-                  <li><i class="fa fa-check"></i><b>Pastel de Frango</b></li> <i>Frango, cebola, dente de alho, tomate, cheiro-verde, milho-verde, molho de tomate, azeitonas picadas</i>
-                  <li><i class="fa fa-check"></i><b>Pastel Portuguesa</b></li><i>Frango, margarina, pimenta, leite, tomate, milho-verde</i>
-                  <li><i class="fa fa-check"></i><b>Pastel Carne de sol</b></li><i>Carde de sol, pimenta,alho, pimentão, cebola, sal, cheiro-verde </i>
-                  <li><i class="fa fa-check"></i><b>Pastel de Carne-seca</b></li><i>Carne-seca, cebola, alho, tomate, salsinha, pimenta-do-reino, sal</i>
-                  <li><i class="fa fa-check"></i><b>Pastel de queijo</b></li><i>Queijo</i>
-                  <li><i class="fa fa-check"></i><b>Pastel de Queijo e Presunto</b></li><i>Queijo e presunto</i>
+                    <li><i class="fa fa-check"></i><b>Mixed Pastel</b></li>
+                    <i> Chicken, cheese, mozzarella, ham, pea, green corn, tomato sauce</i>
+                  <li><i class="fa fa-check"></i><b>Chicken pastel</b></li> <i>Chicken, Onion, Garlic Clove, Tomato, Green Smell, Green Corn, Tomato Sauce, Chopped Olives</i>
+                  <li><i class="fa fa-check"></i><b>Pastel Portuguesa</b></li><i>Chicken, margarine, pepper, milk, tomato, green corn</i>
+                  <li><i class="fa fa-check"></i><b>Pastel Carne de Sol</b></li><i>Sunlight, pepper, garlic, chili, onion, salt, green-smell</i>
+                  <li><i class="fa fa-check"></i><b>Beef patty</b></li><i>Beef jerky, onion, garlic, tomato, parsley, black pepper, salt</i>
+                  <li><i class="fa fa-check"></i><b>Cheese Pastry</b></li><i>Cheese</i>
+                  <li><i class="fa fa-check"></i><b>Cheese and Ham Pastry</b></li><i>Cheese and ham</i>
                  
                 </ul>
               </div>
@@ -100,6 +124,7 @@
       </div>
     </div>
   </section>
+  <!--/about-->
   <!--/about-->
   <!--/about-->
   <!-- event -->
@@ -146,32 +171,32 @@
               </div>
               <div class="col-md-6 col-sm-6 details-text">
                 <div class="content-holder">
-                  <h2>Nomes / Recheios</h2>
-                  <p> <b> X-come: </b> 2 hamburguer , queijo mussarela , limão  
+                  <h2>Names / Fillings</h2>
+                  <p> <b> X-come: </b> 2 burger, mozzarella cheese, lemon
                     <br>
-                  <br> <b> X-ultra: </b> 2 hamburguer , queijo , bacon , mussarela
+                  <br> <b> X-ultra: </b> 2 burger, cheese, bacon, mozzarella
                   <br>
-                  <br> <b> X-big: </b> Frango com catupiry
+                  <br> <b> X-big: </b> Chicken with catupiry
                   <br>
-                    <br> <b> X-big Burguer: </b> Pão,hamburguer e queijo
+                    <br> <b> X-big Burguer: </b> Bread, Burger and Cheese
                     <br>
-                   <br> <b> X-big: </b> ovo , manteiga
+                   <br> <b> X-big: </b>egg , butter
                    <br>
-                     <br> <b> X-A moda do chefe: </b> Pão,hamburguer,queijo,presuto,champignon e maionese
+                     <br> <b> X-A moda do chefe: </b> Bread, burger, cheese, ham, champignon and mayonnaise
                      <br>
-                      <br> <b> X-A moda da casa: </b> pão,hamburguer,queijo qualho,tomate,alface,maionese
+                      <br> <b> X-A moda da casa: </b> bread, burger, cheese, tomato, lettuce, mayonnaise
                       <br>
-                      <br> <b> X-Bacon: </b> Paõ,hamburguer,queijo e bacon
+                      <br> <b> X-Bacon: </b> Bread, hamburger, cheese and bacon
                       <br>
-                       <br> <b> X-Bacon Egg: </b> Pão,hamburguer,queijo,bacon e ovo
+                       <br> <b> X-Bacon Egg: </b> Bread, Burger, Cheese, Bacon and Egg
                        <br>
-                      <br> <b> X-Maionese: </b> Pão,hamburguer,queijo e maionese
+                      <br> <b> X-Maionese: </b> Bread, Burger, Cheese and Mayonnaise
                       <br>
-                       <br> <b> X-Qualho Salada: </b>Paõ,hamburguer,queijo qualho,tomate,alface,maionese e ovo
+                       <br> <b> X-Qualho Salada: </b>Bread, burger, cheese, tomato, lettuce, mayonnaise and egg
                        <br>
-                        <br> <b> X-Salada Especial da villa: </b>Pão,hamburguer,queijo,presunto,cebola crua e maionese
+                        <br> <b> X-Salada Especial da villa: </b>Bread, Burger, Cheese, Ham, Raw Onion and Mayonnaise
                         <br>
-                         
+                        
                   </p>
                   
                 </div>
@@ -185,42 +210,21 @@
   </section>
 <!--/ event -->
 <!-- menu -->
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>OBA ! LANCHES</title>
-  <meta name="description" content="Free Bootstrap Theme by BootstrapMade.com">
-  <meta name="keywords" content="free website templates, free bootstrap themes, free template, free bootstrap, free website template">
-
-  <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Satisfy|Bree+Serif|Candal|PT+Sans">
-  <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
-  <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
-  <link rel="stylesheet" type="text/css" href="css/style.css">
-  <!-- =======================================================
-    Theme Name: Delicious
-    Theme URL: https://bootstrapmade.com/delicious-free-restaurant-bootstrap-theme/
-    Author: BootstrapMade.com
-    Author URL: https://bootstrapmade.com
-  ======================================================= -->
-</head>
-<!-- menu -->
 <section id="menu-list" class="section-padding">
   <div class="container">
     <div class="row">
       <div class="col-md-12 text-center marb-35">
-        <h1 class="header-h">Lista de bebidas</h1>
+        <h1 class="header-h">Beverage List</h1>
         <p class="header-p">
           <br> </p>
         </div>
 
         <div class="col-md-12  text-center" id="menu-flters">
           <ul>
-            <li><a class="filter active" data-filter=".menu-restaurant">tudo</a></li>
-            <li><a class="filter" data-filter=".breakfast">refrigerantes</a></li>
-            <li><a class="filter" data-filter=".lunch">sucos</a></li>
-            <li><a class="filter" data-filter=".dinner">Bebidas</a></li>
+            <li><a class="filter active" data-filter=".menu-restaurant">all</a></li>
+            <li><a class="filter" data-filter=".breakfast">soft drinks</a></li>
+            <li><a class="filter" data-filter=".lunch">juices</a></li>
+            <li><a class="filter" data-filter=".dinner">Drinks</a></li>
           </ul>
         </div>
 
@@ -232,7 +236,7 @@
               <span style="left: 166px; right: 44px;" class="menu-line"></span>
               <span class="menu-price">R$5,99</span>
             </span>
-            <span class="menu-subtitle">2 litros</span>
+            <span class="menu-subtitle">2 liter</span>
           </div>
 
           <div class="breakfast menu-restaurant">
@@ -241,7 +245,7 @@
               <span style="left: 166px; right: 44px;" class="menu-line"></span>
               <span class="menu-price">$20.99</span>
             </span>
-            <span class="menu-subtitle">2 litros</span>
+            <span class="menu-subtitle">2 liter</span>
           </div>
 
           <div class="breakfast menu-restaurant">
@@ -250,7 +254,7 @@
               <span style="left: 166px; right: 44px;" class="menu-line"></span>
               <span class="menu-price">$20.99</span>
             </span>
-            <span class="menu-subtitle">2 litros</span>
+            <span class="menu-subtitle">2 liter</span>
           </div>
 
           <div class="breakfast menu-restaurant">
@@ -259,7 +263,7 @@
               <span style="left: 166px; right: 44px;" class="menu-line"></span>
               <span class="menu-price">$20.99</span>
             </span>
-            <span class="menu-subtitle">2 litros</span>
+            <span class="menu-subtitle">2 liter</span>
           </div>
 
 
@@ -272,7 +276,7 @@
               <span style="left: 166px; right: 44px;" class="menu-line"></span>
               <span class="menu-price">$4.99</span>
             </span>
-            <span class="menu-subtitle">2 litros</span>
+            <span class="menu-subtitle">2 liter</span>
           </div>
 
 
@@ -283,7 +287,7 @@
               <span style="left: 166px; right: 44px;" class="menu-line"></span>
               <span class="menu-price">$8.00</span>
             </span>
-            <span class="menu-subtitle">2 litros</span>
+            <span class="menu-subtitle">2 liter</span>
           </div>
 
 
@@ -294,7 +298,7 @@
               <span style="left: 166px; right: 44px;" class="menu-line"></span>
               <span class="menu-price">$6.00</span>
             </span>
-            <span class="menu-subtitle">2 litros</span>
+            <span class="menu-subtitle">2 liter</span>
           </div>
 
 
@@ -305,13 +309,13 @@
               <span style="left: 166px; right: 44px;" class="menu-line"></span>
               <span class="menu-price">$6.00</span>
             </span>
-            <span class="menu-subtitle">2 litros</span>
+            <span class="menu-subtitle">2 liter</span>
           </div>
 
 
           <div class="lunch menu-restaurant">
             <span class="clearfix">
-              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">suco de laranja</a>
+              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">Orange juice</a>
               <span style="left: 166px; right: 44px;" class="menu-line"></span>
               <span class="menu-price">$3.00</span>
             </span>
@@ -321,7 +325,7 @@
 
           <div class="lunch menu-restaurant">
             <span class="clearfix">
-              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">suco de limão</a>
+              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">lemon juice</a>
               <span style="left: 166px; right: 44px;" class="menu-line"></span>
               <span class="menu-price">$3.00</span>
             </span>
@@ -333,7 +337,7 @@
 
 <div class="lunch menu-restaurant">
             <span class="clearfix">
-              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">Suco de Ameixa, Mamão e Laranja</a>
+              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">Plum, Papaya and Orange Juice </a>
               <span style="left: 166px; right: 44px;" class="menu-line"></span>
               <span class="menu-price">$6.00</span>
             </span>
@@ -344,7 +348,7 @@
 
           <div class="lunch menu-restaurant">
             <span class="clearfix">
-              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">suco de melancia com Gengibre</a>
+              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">Watermelon Juice With Ginger</a>
               <span style="left: 166px; right: 44px;" class="menu-line"></span>
               <span class="menu-price">$5.00</span>
             </span>
@@ -354,7 +358,7 @@
 
           <div class="lunch menu-restaurant">
             <span class="clearfix">
-              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">suco de goiaba</a>
+              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">guava's juice</a>
               <span style="left: 166px; right: 44px;" class="menu-line"></span>
               <span class="menu-price">$3.50</span>
             </span>
@@ -363,7 +367,7 @@
 
            <div class="lunch menu-restaurant">
             <span class="clearfix">
-              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">suco de maçã</a>
+              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">Apple juice</a>
               <span style="left: 166px; right: 44px;" class="menu-line"></span>
               <span class="menu-price">$3.50</span>
             </span>
@@ -372,7 +376,7 @@
 
           <div class="lunch menu-restaurant">
             <span class="clearfix">
-              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">agua de coco</a>
+              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">coconut water</a>
               <span style="left: 166px; right: 44px;" class="menu-line"></span>
               <span class="menu-price">$2.50</span>
             </span>
@@ -381,7 +385,7 @@
 
           <div class="lunch menu-restaurant">
             <span class="clearfix">
-              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">suco de acerola</a>
+              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">acerola juice</a>
               <span style="left: 166px; right: 44px;" class="menu-line"></span>
               <span class="menu-price">$3.80</span>
             </span>
@@ -403,7 +407,7 @@
               <span style="left: 166px; right: 44px;" class="menu-line"></span>
               <span class="menu-price">$15.00</span>
             </span>
-            <span class="menu-subtitle">1 litro</span>
+            <span class="menu-subtitle">1 liter</span>
           </div>
 
 
@@ -415,7 +419,7 @@
               <span style="left: 166px; right: 44px;" class="menu-line"></span>
               <span class="menu-price">$80.00</span>
             </span>
-            <span class="menu-subtitle">1 litro</span>
+            <span class="menu-subtitle">1 liter</span>
           </div>
 
 
@@ -426,7 +430,7 @@
               <span style="left: 166px; right: 44px;" class="menu-line"></span>
               <span class="menu-price">$12.00</span>
             </span>
-            <span class="menu-subtitle">1 litro</span>
+            <span class="menu-subtitle">1 liter</span>
           </div>
 
 
@@ -514,8 +518,8 @@
   <div class="container">
     <div class="row">
       <div class="col-md-12 text-center">
-        <h1 class="header-h">Faça seu pedido</h1>
-        <p class="header-p">preencha o formulario pra gente preparar tudo pra vc
+        <h1 class="header-h">Make your wish</h1>
+        <p class="header-p">fill out the form for us to prepare everything for you
           <br><span style='font-size:100px;'>&#128526;</span>
         </p>
       </div>
@@ -527,8 +531,8 @@
             <div class="contact-phone bg-1 text-center"><span class="phone-in-talk fa fa-phone"></span></div>
           </div>
           <div class="media-body">
-            <h4 class="dark-blue regular">Seu Numero</h4>
-            <p class="light-blue regular alt-p">88 9988396003 <span>&#128072;&#127996;</span>  <span class="contacts-sp"> nosso numero</span></p>
+            <h4 class="dark-blue regular">Your number</h4>
+            <p class="light-blue regular alt-p">88 9988396003 <span>&#128072;&#127996;</span>  <span class="contacts-sp">our number</span></p>
           </div>
         </div>
         <div class="media-2">
@@ -536,21 +540,21 @@
             <div class="contact-email bg-14 text-center"><span class="hour-icon fa fa-clock-o"></span></div>
           </div>
           <div class="media-body">
-            <h4 class="dark-blue regular">Horario de funcionamento</h4>
-            <p class="light-blue regular alt-p"> Segunda a Sexta 09.00 - 00:00</p>
+            <h4 class="dark-blue regular">Opening hours</h4>
+            <p class="light-blue regular alt-p"> Monday to Friday 09.00 - 00:00</p>
             <p class="light-blue regular alt-p">
-              Sabado e Domingo  08:00 - 03.00
+              Saturday and Sunday 08:00 - 03.00
             </p>
           </div>
         </div>
       </div>
       <div class="col-md-8 col-sm-8">
         <form action="" method="post" role="form" class="contactForm">
-          <div id="sendmessage">o seu pedido foi enviado </div>
+          <div id="sendmessage">Your request has been sent </div>
           <div id="errormessage"></div>
           <div class="col-md-6 col-sm-6 contact-form pad-form">
             <div class="form-group label-floating is-empty">
-              <input type="text" name="name" class="form-control" id="name" placeholder="Seu nome" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+              <input type="text" name="name" class="form-control" id="name" placeholder="name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
               <div class="validation"></div>
             </div>
 
@@ -563,7 +567,7 @@
           </div>
           <div class="col-md-6 col-sm-6 contact-form pad-form">
             <div class="form-group">
-              <input type="email" class="form-control label-floating is-empty" name="email" id="email" placeholder="Digite seu e-mail" data-rule="email" data-msg="Please enter a valid email" />
+              <input type="email" class="form-control label-floating is-empty" name="email" id="email" placeholder="Type your e-mail" data-rule="email" data-msg="Please enter a valid email" />
               <div class="validation"></div>
             </div>
           </div>
@@ -575,19 +579,19 @@
           </div>
           <div class="col-md-6 col-sm-6 contact-form">
             <div class="form-group">
-              <input type="text" class="form-control label-floating is-empty" name="phone" id="phone" placeholder="Seu numero" data-rule="required" data-msg="This field is required" />
+              <input type="text" class="form-control label-floating is-empty" name="phone" id="phone" placeholder="Your number" data-rule="required" data-msg="This field is required" />
               <div class="validation"></div>
             </div>
           </div>
           <div class="col-md-6 col-sm-6 contact-form">
             <div class="form-group">
-              <input type="text" class="form-control label-floating is-empty" name="people" id="people" placeholder="Pessoa" data-rule="required" data-msg="This field is required" />
+              <input type="text" class="form-control label-floating is-empty" name="people" id="people" placeholder="people" data-rule="required" data-msg="This field is required" />
               <div class="validation"></div>
             </div>
           </div>
           <div class="col-md-12 contact-form">
             <div class="form-group label-floating is-empty">
-              <textarea class="form-control" name="message" rows="5" rows="3" data-rule="required" data-msg="Please write something for us" placeholder="qual o seu pedido ?"></textarea>
+              <textarea class="form-control" name="message" rows="5" rows="3" data-rule="required" data-msg="Please write something for us" placeholder="Please write something for us"></textarea>
               <div class="validation"></div>
             </div>
 
@@ -625,9 +629,8 @@
                   Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=Delicious
                 -->
                 <address>
-                  <strong>Local: </strong>
-                  Av. Pedro Alves, 224-236 - Centro, Acopiara - CE, 63560-000
-                  <br>
+                  <strong>Place: </strong>
+Pedro Alves Avenue, 224-236 - Center, Acopiara - CE, 63560-000                  <br>
 
                 </address>
                 Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
