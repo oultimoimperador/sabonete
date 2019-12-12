@@ -39,19 +39,15 @@
               <p></p>
               <div class="details-list">
                 <ul>
-                  <li><i class="fa fa-check"></i><b> Misto</b></li>
-                  <i>  queijo , presunto , milho , milho , milho , milho , milho , milho , milho , milho , milho, milho , milho , milho , milho</i>
-                  <li><i class="fa fa-check"></i>Frango</li>
-                  <li><i class="fa fa-check"></i>Portuguesa</li>
-                  <li><i class="fa fa-check"></i>Carne de sol</li>
-                  <li><i class="fa fa-check"></i>Carne de sol</li>
-                  <li><i class="fa fa-check"></i>Carne de sol</li>
-                  <li><i class="fa fa-check"></i>Carne de sol</li>
-                  <li><i class="fa fa-check"></i>Carne de sol</li>
-                  <li><i class="fa fa-check"></i>Carne de sol</li>
-                  <li><i class="fa fa-check"></i>Carne de sol</li>
-                  <li><i class="fa fa-check"></i>Carne de sol</li>
-                  <li><i class="fa fa-check"></i>Carne de sol</li>
+                    <li><i class="fa fa-check"></i><b>Pastel Misto</b></li>
+                    <i> Frango, queijo, mussarela, presunto, ervilha, milho-verde, molho de tomate</i>
+                  <li><i class="fa fa-check"></i><b>Pastel de Frango</b></li> <i>Frango, cebola, dente de alho, tomate, cheiro-verde, milho-verde, molho de tomate, azeitonas picadas</i>
+                  <li><i class="fa fa-check"></i><b>Pastel Portuguesa</b></li><i>Frango, margarina, pimenta, leite, tomate, milho-verde</i>
+                  <li><i class="fa fa-check"></i><b>Pastel Carne de sol</b></li><i>Carde de sol, pimenta,alho, pimentão, cebola, sal, cheiro-verde </i>
+                  <li><i class="fa fa-check"></i><b>Pastel de Carne-seca</b></li><i>Carne-seca, cebola, alho, tomate, salsinha, pimenta-do-reino, sal</i>
+                  <li><i class="fa fa-check"></i><b>Pastel de queijo</b></li><i>Queijo</i>
+                  <li><i class="fa fa-check"></i><b>Pastel de Queijo e Presunto</b></li><i>Queijo e presunto</i>
+                 
                 </ul>
               </div>
             </div>
