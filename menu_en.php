@@ -23,17 +23,17 @@
   <div class="container">
     <div class="row">
       <div class="col-md-12 text-center marb-35">
-        <h1 class="header-h">Lista de bebidas</h1>
+        <h1 class="header-h">Beverage List</h1>
         <p class="header-p">
           <br> </p>
         </div>
 
         <div class="col-md-12  text-center" id="menu-flters">
           <ul>
-            <li><a class="filter active" data-filter=".menu-restaurant">tudo</a></li>
-            <li><a class="filter" data-filter=".breakfast">refrigerantes</a></li>
-            <li><a class="filter" data-filter=".lunch">sucos</a></li>
-            <li><a class="filter" data-filter=".dinner">Bebidas</a></li>
+            <li><a class="filter active" data-filter=".menu-restaurant">all</a></li>
+            <li><a class="filter" data-filter=".breakfast">soft drinks</a></li>
+            <li><a class="filter" data-filter=".lunch">juices</a></li>
+            <li><a class="filter" data-filter=".dinner">Drinks</a></li>
           </ul>
         </div>
 
@@ -41,44 +41,90 @@
 
           <div class="breakfast menu-restaurant">
             <span class="clearfix">
-              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">Coca-cola</a>
+              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">coke</a>
               <span style="left: 166px; right: 44px;" class="menu-line"></span>
               <span class="menu-price">R$5,99</span>
             </span>
-            <span class="menu-subtitle">2 litros</span>
+            <span class="menu-subtitle">2 liter</span>
           </div>
 
           <div class="breakfast menu-restaurant">
             <span class="clearfix">
-              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">Fanta uva</a>
+              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">Fanta Grape</a>
               <span style="left: 166px; right: 44px;" class="menu-line"></span>
               <span class="menu-price">$20.99</span>
             </span>
-            <span class="menu-subtitle">2 litros</span>
+            <span class="menu-subtitle">2 liter</span>
           </div>
 
           <div class="breakfast menu-restaurant">
             <span class="clearfix">
-              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">FANTA LARANJA</a>
+              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">ORANGE BOWL</a>
               <span style="left: 166px; right: 44px;" class="menu-line"></span>
               <span class="menu-price">$20.99</span>
             </span>
-            <span class="menu-subtitle">2 litros</span>
+            <span class="menu-subtitle">2 liter</span>
           </div>
 
           <div class="breakfast menu-restaurant">
             <span class="clearfix">
-              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">guaraná</a>
+              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">guarana</a>
               <span style="left: 166px; right: 44px;" class="menu-line"></span>
               <span class="menu-price">$20.99</span>
             </span>
-            <span class="menu-subtitle">2 litros</span>
+            <span class="menu-subtitle">2 liter</span>
+          </div>
+
+
+
+
+
+<div class="breakfast menu-restaurant">
+            <span class="clearfix">
+              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">Dolly</a>
+              <span style="left: 166px; right: 44px;" class="menu-line"></span>
+              <span class="menu-price">$4.99</span>
+            </span>
+            <span class="menu-subtitle">2 liter</span>
+          </div>
+
+
+
+<div class="breakfast menu-restaurant">
+            <span class="clearfix">
+              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">Pepsi</a>
+              <span style="left: 166px; right: 44px;" class="menu-line"></span>
+              <span class="menu-price">$8.00</span>
+            </span>
+            <span class="menu-subtitle">2 liter</span>
+          </div>
+
+
+
+<div class="breakfast menu-restaurant">
+            <span class="clearfix">
+              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">Cajuina</a>
+              <span style="left: 166px; right: 44px;" class="menu-line"></span>
+              <span class="menu-price">$6.00</span>
+            </span>
+            <span class="menu-subtitle">2 liter</span>
+          </div>
+
+
+
+<div class="breakfast menu-restaurant">
+            <span class="clearfix">
+              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">orange frevo</a>
+              <span style="left: 166px; right: 44px;" class="menu-line"></span>
+              <span class="menu-price">$6.00</span>
+            </span>
+            <span class="menu-subtitle">2 liter</span>
           </div>
 
 
           <div class="lunch menu-restaurant">
             <span class="clearfix">
-              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">suco de laranja</a>
+              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">Orange juice</a>
               <span style="left: 166px; right: 44px;" class="menu-line"></span>
               <span class="menu-price">$3.00</span>
             </span>
@@ -88,7 +134,7 @@
 
           <div class="lunch menu-restaurant">
             <span class="clearfix">
-              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">suco de limão</a>
+              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">lemon juice</a>
               <span style="left: 166px; right: 44px;" class="menu-line"></span>
               <span class="menu-price">$3.00</span>
             </span>
@@ -100,7 +146,7 @@
 
 <div class="lunch menu-restaurant">
             <span class="clearfix">
-              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">Suco de Ameixa, Mamão e Laranja</a>
+              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">Plum, Papaya and Orange Juice </a>
               <span style="left: 166px; right: 44px;" class="menu-line"></span>
               <span class="menu-price">$6.00</span>
             </span>
@@ -111,7 +157,7 @@
 
           <div class="lunch menu-restaurant">
             <span class="clearfix">
-              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">suco de melancia com Gengibre</a>
+              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">Watermelon Juice With Ginger</a>
               <span style="left: 166px; right: 44px;" class="menu-line"></span>
               <span class="menu-price">$5.00</span>
             </span>
@@ -121,7 +167,7 @@
 
           <div class="lunch menu-restaurant">
             <span class="clearfix">
-              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">suco de goiaba</a>
+              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">guava's juice</a>
               <span style="left: 166px; right: 44px;" class="menu-line"></span>
               <span class="menu-price">$3.50</span>
             </span>
@@ -130,7 +176,7 @@
 
            <div class="lunch menu-restaurant">
             <span class="clearfix">
-              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">suco de maçã</a>
+              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">Apple juice</a>
               <span style="left: 166px; right: 44px;" class="menu-line"></span>
               <span class="menu-price">$3.50</span>
             </span>
@@ -139,7 +185,7 @@
 
           <div class="lunch menu-restaurant">
             <span class="clearfix">
-              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">agua de coco</a>
+              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">coconut water</a>
               <span style="left: 166px; right: 44px;" class="menu-line"></span>
               <span class="menu-price">$2.50</span>
             </span>
@@ -148,7 +194,7 @@
 
           <div class="lunch menu-restaurant">
             <span class="clearfix">
-              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">suco de acerola</a>
+              <a class="menu-title" href="#" data-meal-img="assets/img/restaurant/rib.jpg">acerola juice</a>
               <span style="left: 166px; right: 44px;" class="menu-line"></span>
               <span class="menu-price">$3.80</span>
             </span>
@@ -170,7 +216,7 @@
               <span style="left: 166px; right: 44px;" class="menu-line"></span>
               <span class="menu-price">$15.00</span>
             </span>
-            <span class="menu-subtitle">1 litro</span>
+            <span class="menu-subtitle">1 liter</span>
           </div>
 
 
@@ -182,7 +228,7 @@
               <span style="left: 166px; right: 44px;" class="menu-line"></span>
               <span class="menu-price">$80.00</span>
             </span>
-            <span class="menu-subtitle">1 litro</span>
+            <span class="menu-subtitle">1 liter</span>
           </div>
 
 
@@ -193,7 +239,7 @@
               <span style="left: 166px; right: 44px;" class="menu-line"></span>
               <span class="menu-price">$12.00</span>
             </span>
-            <span class="menu-subtitle">1 litro</span>
+            <span class="menu-subtitle">1 liter</span>
           </div>
 
 
