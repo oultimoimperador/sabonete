@@ -20,7 +20,7 @@
     ======================================================= -->
 </head>
 <!--/ Petiscos -->
-   <div >   <style type="text/css">
+  <div >   <style type="text/css">
 .bgimg {
     background-image: url(img/res04.jpg);
 }
@@ -52,12 +52,10 @@
                 <div class="content-holder">
                   <h2>Petiscos</h2>
                   <p> 
-                       <br>  <b> Tripa  </b>
-                       <br>  <b> Limão com toicin  </b>
-                       <br>  <b> Rã frita  </b>
-                       <br>  <b> Teste  </b>
-                       <br>  <b> Teste  </b>
-                       <br>  <b> Tiú cozido </b>
+                       <br>  <b> Gut  </b>
+                       <br>  <b> Lemon with toicin  </b>
+                       <br>  <b> Frog  </b>
+                       <br>  <b> Cooked tiú </b>
 
                   </p>
                   
