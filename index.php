@@ -86,11 +86,7 @@
                   <li><i class="fa fa-check"></i><b>Pastel de Carne-seca</b></li><i>Carne-seca, cebola, alho, tomate, salsinha, pimenta-do-reino, sal</i>
                   <li><i class="fa fa-check"></i><b>Pastel de queijo</b></li><i>Queijo</i>
                   <li><i class="fa fa-check"></i><b>Pastel de Queijo e Presunto</b></li><i>Queijo e presunto</i>
-                  <li><i class="fa fa-check"></i>Carne de sol</li>
-                  <li><i class="fa fa-check"></i>Carne de sol</li>
-                  <li><i class="fa fa-check"></i>Carne de sol</li>
-                  <li><i class="fa fa-check"></i>Carne de sol</li>
-                  <li><i class="fa fa-check"></i>Carne de sol</li>
+                 
                 </ul>
               </div>
             </div>
@@ -174,12 +170,7 @@
                        <br>
                         <br> <b> X-Salada Especial da villa: </b>Pão,hamburguer,queijo,presunto,cebola crua e maionese
                         <br>
-                         <br> <b> X-big: </b> ovo , manteiga
-                         <br>
-                          <br> <b> X-big: </b> ovo , manteiga
-                          <br>
-                           <br> <b> X-big: </b> ovo , manteiga
-                           <br>
+                         
                   </p>
                   
                 </div>
@@ -327,7 +318,7 @@
   </section>
   <!--/ menu -->
   <!--/ Petiscos -->
-   <div >   <style type="text/css">
+    <div >   <style type="text/css">
 .bgimg {
     background-image: url(img/res04.jpg);
 }
@@ -358,9 +349,13 @@
               <div class="col-md-6 col-sm-6 details-text">
                 <div class="content-holder">
                   <h2>Petiscos</h2>
-                  <p> <b> X-come: </b> 2 hamburguer , queijo mussarela , limão  
-                    <br> <b> X-ultra: </b> 2 hamburguer , queijo , bacon , cachaça
-                    <br> <b> X-big: </b> ovo , manteiga
+                  <p> 
+                       <br>  <b> Tripa  </b>
+                       <br>  <b> Limão com toicin  </b>
+                       <br>  <b> Rã frita  </b>
+                       <br>  <b> Teste  </b>
+                       <br>  <b> Teste  </b>
+                       <br>  <b> Tiú cozido </b>
 
                   </p>
                   
