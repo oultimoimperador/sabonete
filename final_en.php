@@ -26,10 +26,12 @@
       <div class="col-md-offset-3 col-md-6 text-center">
         <div class="widget">
          <h4 class="widget-title">OBA LANCHES</h4>
-         <address>Diego<br>Diego, Diego 123</address>
+         <address>Diego/Laecio </address>
          <div class="social-list">
-          <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+          <a href="#"><i class="fa fa-instagram" style="font-size:31px"></i></a>
           <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+
+           <address>Social networks</address>
         </div>
         <p class="copyright clear-float">
           © Delicious Theme. All Rights Reserved
@@ -41,8 +43,9 @@
                   Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=Delicious
                 -->
                 <address>
-                  <strong>Place: </strong>
-Pedro Alves Avenue, 224-236 - Center, Acopiara - CE, 63560-000                  <br>
+                  <strong>Local: </strong>
+                  Av. Pedro Alves, 224-236 - Centro, Acopiara - CE, 63560-000
+                  <br>
 
                 </address>
                 Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
