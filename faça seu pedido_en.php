@@ -95,9 +95,109 @@
               <div class="validation"></div>
             </div>
           </div>
-          <div class="col-md-12 contact-form">
+          
+
+<div class="col-md-12 contact-form">
             <div class="form-group label-floating is-empty">
-              <textarea class="form-control" name="message" rows="5" rows="3" data-rule="required" data-msg="Please write something for us" placeholder="Please write something for us"></textarea>
+                
+                
+              <p> <strong> <h3> Marque seus pedidos </h3>  </strong> </p>
+                
+<div class="col-md-6 col-sm-6 contact-form pad-form">   
+    <p> <strong> <h3> sanduiche </h3>  </strong> </p>
+    
+ <input type="checkbox" id="x-come" name="x-come">
+  <label for="x-come">x-come</label>
+    
+<br> <input type="checkbox" id="x-bacon" name="x-bacon">
+  <label for="x-bacon">x-bacon</label>
+    
+ <br>   <input type="checkbox" id="x-tudo" name="x-tudo">
+  <label for="x-tudo">x-tudo</label>
+    
+ <br>  <input type="checkbox" id="x-bacon" name="x-bacon">
+  <label for="x-bacon">x-bacon</label>
+    
+ <br>   <input type="checkbox" id="x-bacon" name="x-bacon">
+  <label for="x-bacon">x-bacon</label>
+    
+ <br>   <input type="checkbox" id="x-bacon" name="x-bacon">
+  <label for="x-bacon">x-bacon</label>
+    
+  <br>   <input type="checkbox" id="x-bacon" name="x-bacon">
+  <label for="x-bacon">x-bacon</label>
+    
+  <br>   <input type="checkbox" id="x-bacon" name="x-bacon">
+  <label for="x-bacon">x-bacon</label>
+    
+<br>     <input type="checkbox" id="x-bacon" name="x-bacon">
+  <label for="x-bacon">x-bacon</label>
+    
+  <br>   <input type="checkbox" id="x-bacon" name="x-bacon">
+  <label for="x-bacon">x-bacon</label>
+    
+  
+</div>
+<div>
+   <div class="col-md-6 col-sm-6 contact-form">
+     <p> <strong> <h3> Bebidas </h3>  </strong> </p>
+    
+   
+  <input type="checkbox" id="x-come" name="x-come">
+  <label for="x-come">x-come</label>
+    
+<br> <input type="checkbox" id="x-bacon" name="x-bacon">
+  <label for="x-bacon">x-bacon</label>
+    
+ <br>   <input type="checkbox" id="x-tudo" name="x-tudo">
+  <label for="x-tudo">x-tudo</label>
+    
+ <br>  <input type="checkbox" id="x-bacon" name="x-bacon">
+  <label for="x-bacon">x-bacon</label>
+    
+ <br>   <input type="checkbox" id="x-bacon" name="x-bacon">
+  <label for="x-bacon">x-bacon</label>
+    
+ <br>   <input type="checkbox" id="x-bacon" name="x-bacon">
+  <label for="x-bacon">x-bacon</label>
+    
+  <br>   <input type="checkbox" id="x-bacon" name="x-bacon">
+  <label for="x-bacon">x-bacon</label>
+    
+  <br>   <input type="checkbox" id="x-bacon" name="x-bacon">
+  <label for="x-bacon">x-bacon</label>
+    
+<br>     <input type="checkbox" id="x-bacon" name="x-bacon">
+  <label for="x-bacon">x-bacon</label>
+    
+  <br>   <input type="checkbox" id="x-bacon" name="x-bacon">
+  <label for="x-bacon">x-bacon</label>
+     </div>
+           
+            <div>
+     <p> <strong> <h3> petiscos </h3>  </strong> </p>
+    
+ <input type="checkbox" id="x-come" name="x-come">
+  <label for="x-come">x-come</label>
+    
+ <input type="checkbox" id="x-bacon" name="x-bacon">
+  <label for="x-bacon">x-bacon</label>
+    
+   <input type="checkbox" id="x-tudo" name="x-tudo">
+  <label for="x-tudo">x-tudo</label>
+    
+   <input type="checkbox" id="x-bacon" name="x-bacon">
+  <label for="x-bacon">x-bacon</label>
+    
+  <input type="checkbox" id="x-bacon" name="x-bacon">
+  <label for="x-bacon">x-bacon</label>
+    
+   <input type="checkbox" id="x-bacon" name="x-bacon">
+  <label for="x-bacon">x-bacon</label>
+
+     </div>    
+                
+                
               <div class="validation"></div>
             </div>
 
