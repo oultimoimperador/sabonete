@@ -36,13 +36,13 @@
           <div class="container">
             <div id="mySidenav" class="sidenav">
               <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-              <a href="#about">Pasteis <!--isso aqui é emoji--><span style='font-size:25px;'>&#127790;</span>
+              <a href="#about">Pastries <!--isso aqui é emoji--><span style='font-size:25px;'>&#127790;</span>
               </a>
-              <a href="#event">Sanduiche <!--isso aqui é emoji--> <span style='font-size:25px;'>&#127828;</span> </a>
-              <a href="#Petiscos">Petiscos <!--isso aqui é emoji--> <span style='font-size:25px;'>&#127844;</span> </a>
-              <a href="#menu-list">Bebidas <!--isso aqui é emoji--> <span style='font-size:25px;'>&#127867;</span>
+              <a href="#event">Sanduíche <!--isso aqui é emoji--> <span style='font-size:25px;'>&#127828;</span> </a>
+              <a href="#Petiscos">snacks <!--isso aqui é emoji--> <span style='font-size:25px;'>&#127844;</span> </a>
+              <a href="#menu-list">Beverage List <!--isso aqui é emoji--> <span style='font-size:25px;'>&#127867;</span>
               </a>
-              <a href="#contact">Faça seu pedido</a>
+              <a href="#contact">Make your wish</a>
 
             </div>
             <!-- Use any element to open the sidenav -->
@@ -520,7 +520,6 @@
 </div> 
 <!-- / Petiscos -->
 
-<!-- contact -->
 <section id="contact" class="section-padding">
   <div class="container">
     <div class="row">
@@ -596,9 +595,109 @@
               <div class="validation"></div>
             </div>
           </div>
-          <div class="col-md-12 contact-form">
+          
+
+<div class="col-md-12 contact-form">
             <div class="form-group label-floating is-empty">
-              <textarea class="form-control" name="message" rows="5" rows="3" data-rule="required" data-msg="Please write something for us" placeholder="Please write something for us"></textarea>
+                
+                
+              <p> <strong> <h3> Marque seus pedidos </h3>  </strong> </p>
+                
+<div class="col-md-6 col-sm-6 contact-form pad-form">   
+    <p> <strong> <h3> sanduiche </h3>  </strong> </p>
+    
+ <input type="checkbox" id="x-come" name="x-come">
+  <label for="x-come">x-come</label>
+    
+<br> <input type="checkbox" id="x-bacon" name="x-bacon">
+  <label for="x-bacon">x-bacon</label>
+    
+ <br>   <input type="checkbox" id="x-tudo" name="x-tudo">
+  <label for="x-tudo">x-tudo</label>
+    
+ <br>  <input type="checkbox" id="x-bacon" name="x-bacon">
+  <label for="x-bacon">x-bacon</label>
+    
+ <br>   <input type="checkbox" id="x-bacon" name="x-bacon">
+  <label for="x-bacon">x-bacon</label>
+    
+ <br>   <input type="checkbox" id="x-bacon" name="x-bacon">
+  <label for="x-bacon">x-bacon</label>
+    
+  <br>   <input type="checkbox" id="x-bacon" name="x-bacon">
+  <label for="x-bacon">x-bacon</label>
+    
+  <br>   <input type="checkbox" id="x-bacon" name="x-bacon">
+  <label for="x-bacon">x-bacon</label>
+    
+<br>     <input type="checkbox" id="x-bacon" name="x-bacon">
+  <label for="x-bacon">x-bacon</label>
+    
+  <br>   <input type="checkbox" id="x-bacon" name="x-bacon">
+  <label for="x-bacon">x-bacon</label>
+    
+  
+</div>
+<div>
+   <div class="col-md-6 col-sm-6 contact-form">
+     <p> <strong> <h3> Bebidas </h3>  </strong> </p>
+    
+   
+  <input type="checkbox" id="x-come" name="x-come">
+  <label for="x-come">x-come</label>
+    
+<br> <input type="checkbox" id="x-bacon" name="x-bacon">
+  <label for="x-bacon">x-bacon</label>
+    
+ <br>   <input type="checkbox" id="x-tudo" name="x-tudo">
+  <label for="x-tudo">x-tudo</label>
+    
+ <br>  <input type="checkbox" id="x-bacon" name="x-bacon">
+  <label for="x-bacon">x-bacon</label>
+    
+ <br>   <input type="checkbox" id="x-bacon" name="x-bacon">
+  <label for="x-bacon">x-bacon</label>
+    
+ <br>   <input type="checkbox" id="x-bacon" name="x-bacon">
+  <label for="x-bacon">x-bacon</label>
+    
+  <br>   <input type="checkbox" id="x-bacon" name="x-bacon">
+  <label for="x-bacon">x-bacon</label>
+    
+  <br>   <input type="checkbox" id="x-bacon" name="x-bacon">
+  <label for="x-bacon">x-bacon</label>
+    
+<br>     <input type="checkbox" id="x-bacon" name="x-bacon">
+  <label for="x-bacon">x-bacon</label>
+    
+  <br>   <input type="checkbox" id="x-bacon" name="x-bacon">
+  <label for="x-bacon">x-bacon</label>
+     </div>
+           
+            <div>
+     <p> <strong> <h3> petiscos </h3>  </strong> </p>
+    
+ <input type="checkbox" id="x-come" name="x-come">
+  <label for="x-come">x-come</label>
+    
+ <input type="checkbox" id="x-bacon" name="x-bacon">
+  <label for="x-bacon">x-bacon</label>
+    
+   <input type="checkbox" id="x-tudo" name="x-tudo">
+  <label for="x-tudo">x-tudo</label>
+    
+   <input type="checkbox" id="x-bacon" name="x-bacon">
+  <label for="x-bacon">x-bacon</label>
+    
+  <input type="checkbox" id="x-bacon" name="x-bacon">
+  <label for="x-bacon">x-bacon</label>
+    
+   <input type="checkbox" id="x-bacon" name="x-bacon">
+  <label for="x-bacon">x-bacon</label>
+
+     </div>    
+                
+                
               <div class="validation"></div>
             </div>
 
