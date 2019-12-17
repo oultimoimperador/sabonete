@@ -103,7 +103,7 @@
                 
                 
               <p> <strong> <h3> Marque seus pedidos </h3>  </strong> </p>
-                
+ <div >               
 <div class="col-md-6 col-sm-6 contact-form pad-form">   
     <p> <strong> <h3> sanduiche </h3>  </strong> </p>
     
@@ -197,7 +197,7 @@
   <label for="x-bacon">x-bacon</label>
 
      </div>    
-                
+      </div>          
                 
               <div class="validation"></div>
             </div>
