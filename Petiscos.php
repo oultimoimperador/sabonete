@@ -55,8 +55,8 @@
                        <br>  <b> Tripa  </b>
                        <br>  <b> Limão com toicin  </b>
                        <br>  <b> Rã frita  </b>
-                       <br>  <b> Teste  </b>
-                       <br>  <b> Teste  </b>
+                      
+                       <br>  <b> Tiú assado  </b>
                        <br>  <b> Tiú cozido </b>
 
                   </p>

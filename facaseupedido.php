@@ -99,105 +99,108 @@
             </div>
           </div>
           <div class="col-md-12 contact-form">
+<div class="col-md-12 contact-form">
             <div class="form-group label-floating is-empty">
                 
                 
-              <p> <strong> <h3> Marque seus pedidos </h3>  </strong> </p>
- <div >               
+              <p> <strong> <h3> solicite seus pedidos </h3>  </strong> </p>
+                
 <div class="col-md-6 col-sm-6 contact-form pad-form">   
     <p> <strong> <h3> sanduiche </h3>  </strong> </p>
     
  <input type="checkbox" id="x-come" name="x-come">
   <label for="x-come">x-come</label>
     
-<br> <input type="checkbox" id="x-bacon" name="x-bacon">
-  <label for="x-bacon">x-bacon</label>
+<br> <input type="checkbox" id="X-ultra" name="X-ultra">
+  <label for="X-ultra">X-ultra</label>
     
- <br>   <input type="checkbox" id="x-tudo" name="x-tudo">
-  <label for="x-tudo">x-tudo</label>
+ <br>   <input type="checkbox" id="X-big" name="X-big">
+  <label for="X-big">X-big</label>
     
- <br>  <input type="checkbox" id="x-bacon" name="x-bacon">
-  <label for="x-bacon">x-bacon</label>
+ <br>  <input type="checkbox" id="X-big Burguer" name="X-big Burguer">
+  <label for="X-big Burguer">X-big Burguer</label>
+  
+  
     
- <br>   <input type="checkbox" id="x-bacon" name="x-bacon">
-  <label for="x-bacon">x-bacon</label>
+ <br>   <input type="checkbox" id="X-Bacon" name="X-Bacon">
+  <label for="X-Bacon"> X-Bacon</label>
     
- <br>   <input type="checkbox" id="x-bacon" name="x-bacon">
-  <label for="x-bacon">x-bacon</label>
+ <br>   <input type="checkbox" id="X-Bacon Egg" name="X-Bacon Egg">
+  <label for="X-Bacon Egg">X-Bacon Egg</label>
     
-  <br>   <input type="checkbox" id="x-bacon" name="x-bacon">
-  <label for="x-bacon">x-bacon</label>
+  <br>   <input type="checkbox" id="X-Maionesen" name="X-Maionese">
+  <label for="X-Maionese">X-Maionese</label>
     
-  <br>   <input type="checkbox" id="x-bacon" name="x-bacon">
-  <label for="x-bacon">x-bacon</label>
+  <br>   <input type="checkbox" id="X-Qualho Salada" name="X-Qualho Salada">
+  <label for="X-Qualho Salada">X-Qualho Salada</label>
     
-<br>     <input type="checkbox" id="x-bacon" name="x-bacon">
-  <label for="x-bacon">x-bacon</label>
+<br>     <input type="checkbox" id="X-A moda da casa" name="X-A moda da casa">
+  <label for="X-A moda da casa">X-A moda da casa</label>
     
-  <br>   <input type="checkbox" id="x-bacon" name="x-bacon">
-  <label for="x-bacon">x-bacon</label>
+  <br>   <input type="checkbox" id="X-Salada Especial da villa" name="X-Salada Especial da villa">
+  <label for="X-Salada Especial da villa">X-Salada Especial da villa</label>
     
   
 </div>
 <div>
    <div class="col-md-6 col-sm-6 contact-form">
      <p> <strong> <h3> Bebidas </h3>  </strong> </p>
+            
+ <br>  <input type="checkbox" id="Dolly" name="Dolly">
+  <label for="Dolly">Dolly</label>
     
-   
-  <input type="checkbox" id="x-come" name="x-come">
-  <label for="x-come">x-come</label>
+ <br>   <input type="checkbox" id="Pepsi" name="Pepsi">
+  <label for="Pepsi">Pepsi</label>
     
-<br> <input type="checkbox" id="x-bacon" name="x-bacon">
-  <label for="x-bacon">x-bacon</label>
+ <br>   <input type="checkbox" id="orange frevo" name="orange frevo">
+  <label for="orange frevo">Frevo de Laranja </label>
     
- <br>   <input type="checkbox" id="x-tudo" name="x-tudo">
-  <label for="x-tudo">x-tudo</label>
+  <br>   <input type="checkbox" id="Fanta uva" name="Fanta uva">
+  <label for="Fanta uva">Fanta uva</label>
     
- <br>  <input type="checkbox" id="x-bacon" name="x-bacon">
-  <label for="x-bacon">x-bacon</label>
+  <br>   <input type="checkbox" id="Coca-cola" name="Coca-cola">
+  <label for="Coca-cola">Coca-cola</label>
+
+  <br>   <input type="checkbox" id="Uisque" name="Uisque">
+  <label for="Uisque">Uisque</label>
+
+  <br>   <input type="checkbox" id="Vodka" name="Vodka">
+  <label for="Vodka">Vodka</label>
+
+  <br>   <input type="checkbox" id="heineken" name="heineken">
+  <label for="heineken">heineken</label>
+
+  <br>   <input type="checkbox" id="skol" name="skol">
+  <label for="skol">skol</label>
     
- <br>   <input type="checkbox" id="x-bacon" name="x-bacon">
-  <label for="x-bacon">x-bacon</label>
+<br>     <input type="checkbox" id="skol beats" name="skol beats">
+  <label for="skol beats">skol beats</label>
     
- <br>   <input type="checkbox" id="x-bacon" name="x-bacon">
-  <label for="x-bacon">x-bacon</label>
-    
-  <br>   <input type="checkbox" id="x-bacon" name="x-bacon">
-  <label for="x-bacon">x-bacon</label>
-    
-  <br>   <input type="checkbox" id="x-bacon" name="x-bacon">
-  <label for="x-bacon">x-bacon</label>
-    
-<br>     <input type="checkbox" id="x-bacon" name="x-bacon">
-  <label for="x-bacon">x-bacon</label>
-    
-  <br>   <input type="checkbox" id="x-bacon" name="x-bacon">
-  <label for="x-bacon">x-bacon</label>
+  <br>   <input type="checkbox" id="Rum" name="Rum">
+  <label for="Rum">Rum</label>
      </div>
            
             <div>
      <p> <strong> <h3> petiscos </h3>  </strong> </p>
     
- <input type="checkbox" id="x-come" name="x-come">
-  <label for="x-come">x-come</label>
+ <input type="checkbox" id="Tripa " name="Tripa ">
+  <label for="Tripa ">Tripa </label>
     
- <input type="checkbox" id="x-bacon" name="x-bacon">
-  <label for="x-bacon">x-bacon</label>
+ <input type="checkbox" id="l" name="l">
+  <label for="l"> Limão com toicin </label>
     
-   <input type="checkbox" id="x-tudo" name="x-tudo">
-  <label for="x-tudo">x-tudo</label>
+   <input type="checkbox" id="Rã" name="Rã">
+  <label for="Rã"> Rã frita </label>
     
-   <input type="checkbox" id="x-bacon" name="x-bacon">
-  <label for="x-bacon">x-bacon</label>
+   <input type="checkbox" id="Tiú" name="Tiú">
+  <label for="Tiú"> Tiú cozido </label>
     
-  <input type="checkbox" id="x-bacon" name="x-bacon">
-  <label for="x-bacon">x-bacon</label>
+  <input type="checkbox" id="Tiú1" name="Tiú1">
+  <label for="Tiú1"> Tiú assado</label>
     
-   <input type="checkbox" id="x-bacon" name="x-bacon">
-  <label for="x-bacon">x-bacon</label>
-
+  
      </div>    
-      </div>          
+                
                 
               <div class="validation"></div>
             </div>
