@@ -22,13 +22,8 @@
   </head>
 
   <body>
-    <?php include "pasteis.php"; ?>
-    <?php include "sanduwiche.php" ; ?>
-    <?php include "menu.php "; ?>
-    <?php include "façaseupedido.php" ; ?>
-    <?php include "final.php"; ?>
-<?php include "Petiscos.php"; ?>
-
+   
+   
     <!--banner-->
      <section id="banner">
       <div class="bg-color">

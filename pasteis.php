@@ -1,3 +1,6 @@
+<?php  
+echo "
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -61,3 +64,5 @@
     </div>
   </section>
   <!--/about-->
+  " 
+?>

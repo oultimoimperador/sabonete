@@ -1,3 +1,6 @@
+<?php  
+echo "
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -220,3 +223,5 @@
     </div>
   </section>
   <!--/ menu -->
+  " 
+?>

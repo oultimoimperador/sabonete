@@ -1,3 +1,6 @@
+<?php  
+echo "  
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -217,3 +220,5 @@
   </div>
 </section>
 <!-- / contact -->
+" 
+?>
